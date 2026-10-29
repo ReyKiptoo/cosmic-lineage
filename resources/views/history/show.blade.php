@@ -30,6 +30,9 @@
             </a>
 
             <div class="flex items-center gap-2 text-xs">
+                <a href="{{ route('inquiry.index') }}" class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-xs font-semibold bg-amber-500/15 text-amber-300 border border-amber-500/30 hover:bg-amber-500/25 transition">
+                    <span>🧱 Inquiry Canvas</span>
+                </a>
                 <span class="px-2.5 py-1 rounded bg-white/5 border border-white/10 font-mono text-cyan-300">
                     {{ $experiment['display_year'] }}
                 </span>

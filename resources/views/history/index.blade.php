@@ -49,6 +49,10 @@
 
                 <!-- 7 Interactivity Modes Switcher -->
                 <div class="flex items-center gap-1 bg-white/5 border border-white/10 rounded-xl p-1 overflow-x-auto max-w-full">
+                    <a href="{{ route('inquiry.index') }}"
+                       class="px-2.5 py-1 rounded-lg text-xs font-bold bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 shadow-md shadow-amber-500/20 hover:from-amber-400 hover:to-orange-400 transition flex items-center gap-1 shrink-0">
+                        <span>🧱 Inquiry Canvas</span>
+                    </a>
                     <button @click="setMode('timeline')"
                             :class="activeMode === 'timeline' ? 'bg-cyan-500 text-slate-950 font-bold shadow' : 'text-slate-400 hover:text-white'"
                             class="px-2.5 py-1 rounded-lg text-xs transition flex items-center gap-1 shrink-0">

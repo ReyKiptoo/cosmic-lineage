@@ -1,6 +1,25 @@
 # Cosmic Lineage ⚡🌌
 
-An interactive, experiment-centric knowledge graph mapping the 2,600-year evolution of electromagnetism and scientific discovery across 10 eras of understanding.
+An interactive, experiment-centric knowledge graph mapping the 2,600-year evolution of electromagnetism and scientific discovery, featuring an AI-powered **Inquiry Canvas & Epistemological Thought Engine**.
+
+---
+
+## 🧱 The Genesis Inquiry Canvas
+
+Start from zero with any question or intuition (or pick an ancient genesis stone) and build a pyramid of truth piece by piece:
+
+* **5 Facets of Every Inquiry Block**:
+  1. **Hypothesis**: The core question or assumption under test.
+  2. **Things We Know**: Prior accepted facts required to reach this stage.
+  3. **The Experiment**: Apparatus, method, and variable tested.
+  4. **The Results**: Empirical finding, deduced physical principle, and cosmic significance.
+  5. **Next Possible Paths**: 3 divergent branches (*Validate & Deepen*, *New Horizon*, *Paradox / Anomaly*).
+* **Seal as Proven Truth 🧱**: Crystallizes the block into the foundation masonry with golden borders and unlocks downstream branches.
+* **Challenge Foundation ⚡**: Revisit earlier blocks with counter-evidence or anomalies. Gemini arbitrates whether assumptions are fractured or refined, cascading alerts to downstream blocks.
+* **Direct Gemini 2.5 Flash Integration**:
+  - Connect directly from the browser using the **"Set Gemini API Key ⚙️"** button (stored in browser `localStorage`).
+  - Or configure `GEMINI_API_KEY` in `.env`.
+  - Works out of the box with offline heuristic fallback even before entering a key!
 
 ---
 
