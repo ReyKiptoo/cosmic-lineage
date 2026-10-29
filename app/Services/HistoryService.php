@@ -2,27 +2,18 @@
 
 namespace App\Services;
 
+use App\Models\Age;
+use App\Models\Connection;
+use App\Models\Experiment;
+use App\Models\Person;
 use Illuminate\Support\Collection;
-use RuntimeException;
 
 class HistoryService
 {
     protected ?array $cachedData = null;
 
     /**
-     * Path to the JSON dataset file.
-     */
-    protected string $dataPath;
-
-    public function __construct(?string $dataPath = null)
-    {
-        $this->dataPath = $dataPath ?? database_path('data/history_of_science.json');
-    }
-
-    /**
-     * Load, enrich, and return all ages and nodes.
-     *
-     * @return array{ages: array, nodes: array, stats: array}
+     * Get the full enriched dataset, including experiments, ages, people, connections, threads, and quizzes.
      */
     public function getDataset(): array
     {
@@ -30,61 +21,89 @@ class HistoryService
             return $this->cachedData;
         }
 
-        if (! file_exists($this->dataPath)) {
-            throw new RuntimeException("History dataset not found at {$this->dataPath}");
+        // Read threads & quizzes from knowledge_graph.json if present
+        $jsonPath = database_path('data/knowledge_graph.json');
+        $rawJson = file_exists($jsonPath) ? json_decode((string) file_get_contents($jsonPath), true) : [];
+        $threads = $rawJson['threads'] ?? [];
+        $quizzes = $rawJson['quizzes'] ?? [];
+
+        // Load Eloquent models with relationships
+        $ages = Age::orderBy('id')->get()->toArray();
+        $people = Person::all()->keyBy('id');
+        $rawConnections = Connection::all();
+
+        $experiments = Experiment::with(['age', 'person'])->orderBy('year')->get();
+
+        // Build bidirectional link map
+        $ancestorsMap = [];
+        $descendantsMap = [];
+
+        foreach ($rawConnections as $conn) {
+            $ancestorsMap[$conn->source_experiment_id][] = [
+                'target_id' => $conn->target_experiment_id,
+                'type' => $conn->type,
+                'description' => $conn->description,
+            ];
+
+            $descendantsMap[$conn->target_experiment_id][] = [
+                'source_id' => $conn->source_experiment_id,
+                'type' => $conn->type,
+                'description' => $conn->description,
+            ];
         }
 
-        $raw = json_decode((string) file_get_contents($this->dataPath), true);
+        // Enrich experiment records
+        $enrichedExperiments = $experiments->map(function (Experiment $exp) use ($people, $ancestorsMap, $descendantsMap, $experiments) {
+            $expArray = $exp->toArray();
+            
+            // Person display attributes
+            $person = $people->get($exp->person_id);
+            $expArray['person_name'] = $exp->person_displayName;
+            $expArray['person_nationality'] = $person?->nationality ?? 'Historical Scholar';
+            $expArray['person_lifespan'] = $person?->lifespan_display ?? '';
 
-        if (! is_array($raw) || ! isset($raw['ages'], $raw['nodes'])) {
-            throw new RuntimeException('Invalid history dataset format.');
-        }
+            // Roots & Fruits
+            $ancestors = $ancestorsMap[$exp->id] ?? [];
+            $descendants = $descendantsMap[$exp->id] ?? [];
 
-        $nodesById = collect($raw['nodes'])->keyBy('id');
+            // Attach source & target names
+            $expArray['connections'] = collect($ancestors)->map(function ($conn) use ($experiments) {
+                $target = $experiments->firstWhere('id', $conn['target_id']);
+                $conn['target_name'] = $target?->person_displayName ?? $conn['target_id'];
+                $conn['target_title'] = $target?->title ?? '';
+                $conn['target_year'] = $target?->display_year ?? '';
+                return $conn;
+            })->all();
 
-        // Bidirectional enrichment: attach incoming connections (descendants)
-        // so every node knows both what it builds on and what built on it later.
-        $enrichedNodes = $nodesById->map(function (array $node) use ($nodesById) {
-            $node['ancestors'] = $node['connections'] ?? [];
-            $node['descendants'] = [];
+            $expArray['descendants'] = collect($descendants)->map(function ($desc) use ($experiments) {
+                $source = $experiments->firstWhere('id', $desc['source_id']);
+                $desc['source_name'] = $source?->person_displayName ?? $desc['source_id'];
+                $desc['source_title'] = $source?->title ?? '';
+                $desc['source_year'] = $source?->display_year ?? '';
+                return $desc;
+            })->all();
 
-            return $node;
+            return $expArray;
         });
 
-        foreach ($enrichedNodes as $sourceId => $node) {
-            foreach ($node['connections'] ?? [] as $connection) {
-                $targetId = $connection['target_id'] ?? null;
-                if ($targetId && $enrichedNodes->has($targetId)) {
-                    $target = $enrichedNodes->get($targetId);
-                    $target['descendants'][] = [
-                        'source_id' => $sourceId,
-                        'source_name' => $node['name'],
-                        'source_year' => $node['display_year'],
-                        'type' => $connection['type'],
-                        'description' => $connection['description'] ?? '',
-                    ];
-                    $enrichedNodes->put($targetId, $target);
-                }
-            }
-        }
-
-        $nodeList = $enrichedNodes->values()->all();
-
-        // Calculate statistics
+        // Statistics
         $stats = [
-            'total_nodes' => count($nodeList),
-            'total_ages' => count($raw['ages']),
-            'observations' => collect($nodeList)->where('type', 'observation')->count(),
-            'experiments' => collect($nodeList)->where('type', 'experiment')->count(),
-            'theories' => collect($nodeList)->where('type', 'theory')->count(),
-            'total_connections' => collect($nodeList)->sum(fn ($n) => count($n['connections'] ?? [])),
-            'refutations' => collect($nodeList)->flatMap(fn ($n) => $n['connections'] ?? [])->where('type', 'refutes')->count(),
-            'confirmations' => collect($nodeList)->flatMap(fn ($n) => $n['connections'] ?? [])->where('type', 'confirms')->count(),
+            'total_nodes' => $enrichedExperiments->count(),
+            'total_ages' => count($ages),
+            'observations' => $enrichedExperiments->where('type', 'observation')->count(),
+            'experiments' => $enrichedExperiments->whereIn('type', ['experiment', 'invention'])->count(),
+            'theories' => $enrichedExperiments->where('type', 'theory')->count(),
+            'total_connections' => $rawConnections->count(),
+            'refutations' => $rawConnections->where('type', 'refutes')->count(),
+            'confirmations' => $rawConnections->where('type', 'confirms')->count(),
         ];
 
         $this->cachedData = [
-            'ages' => $raw['ages'],
-            'nodes' => $nodeList,
+            'ages' => $ages,
+            'nodes' => $enrichedExperiments->values()->all(),
+            'people' => $people->values()->all(),
+            'threads' => $threads,
+            'quizzes' => $quizzes,
             'stats' => $stats,
         ];
 
@@ -92,18 +111,11 @@ class HistoryService
     }
 
     /**
-     * Get nodes grouped by Age ID.
+     * Find single experiment by ID or slug with deep relations.
      */
-    public function getNodesByAge(): Collection
+    public function findExperiment(string $id): ?array
     {
-        return collect($this->getDataset()['nodes'])->groupBy('age_id');
-    }
-
-    /**
-     * Find a node by ID.
-     */
-    public function findNode(string $id): ?array
-    {
-        return collect($this->getDataset()['nodes'])->firstWhere('id', $id);
+        $dataset = $this->getDataset();
+        return collect($dataset['nodes'])->firstWhere('id', $id);
     }
 }

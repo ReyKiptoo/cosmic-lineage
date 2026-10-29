@@ -1,0 +1,2112 @@
+{
+    "ages": [
+        {
+            "id": 1,
+            "slug": "age-of-natural-animism",
+            "name": "Age 1: The Age of Natural Animism",
+            "period": "600 BC – 1599 AD",
+            "subtitle": "From Occult Magic to Natural Force",
+            "paradigm_shift": "Moving from viewing the universe as inert matter to recognizing that natural objects possess invisible, long-range forces. Humanity stopped attributing motion solely to muscular intervention and realized nature possessed hidden, active agents.",
+            "color": "#f59e0b",
+            "bg_glow": "rgba(245, 158, 11, 0.15)"
+        },
+        {
+            "id": 2,
+            "slug": "age-of-mechanical-separation",
+            "name": "Age 2: The Age of Mechanical Separation",
+            "period": "1600 – 1739 AD",
+            "subtitle": "Drawing the Line Between Amber and Lodestone",
+            "paradigm_shift": "Moving from mystical conflation to mechanical science. Scientists separated electricity and magnetism into two distinct physical phenomena with their own rules, proving humans could mechanically generate and conduct static charges.",
+            "color": "#38bdf8",
+            "bg_glow": "rgba(56, 189, 248, 0.15)"
+        },
+        {
+            "id": 3,
+            "slug": "age-of-capture-and-quantifying",
+            "name": "Age 3: The Age of Capture and Quantifying",
+            "period": "1740 – 1799 AD",
+            "subtitle": "Storing the Spark & Mathematical Precision",
+            "paradigm_shift": "Moving from fleeting surface sparks to capturing, bottling, and mathematically measuring electricity. Electricity evolved from an unpredictable natural spectacle into a quantifiable fluid governed by inverse-square laws.",
+            "color": "#10b981",
+            "bg_glow": "rgba(16, 185, 129, 0.15)"
+        },
+        {
+            "id": 4,
+            "slug": "age-of-continuous-flow",
+            "name": "Age 4: The Age of Continuous Flow",
+            "period": "1800 – 1819 AD",
+            "subtitle": "From Violent Discharges to Steady Current",
+            "paradigm_shift": "Moving from erratic electrostatic shocks to a continuous, controllable stream of energy. The invention of the chemical battery transformed electricity from a transient explosion into an uninterrupted river of power.",
+            "color": "#06b6d4",
+            "bg_glow": "rgba(6, 182, 212, 0.15)"
+        },
+        {
+            "id": 5,
+            "slug": "age-of-complete-unification",
+            "name": "Age 5: The Age of Complete Unification",
+            "period": "1820 – 1865 AD",
+            "subtitle": "The Marriage of Electricity, Magnetism, and Light",
+            "paradigm_shift": "Realizing electricity and magnetism are not independent forces, but two complementary manifestations of a single entity: Electromagnetism. Maxwell's equations proved that light itself is an electromagnetic ripple through spacetime.",
+            "color": "#8b5cf6",
+            "bg_glow": "rgba(139, 92, 246, 0.15)"
+        },
+        {
+            "id": 6,
+            "slug": "age-of-the-ether-and-the-wave",
+            "name": "Age 6: The Age of the Ether and the Wave",
+            "period": "1866 – 1904 AD",
+            "subtitle": "Physical Waves and the Shattered Ether",
+            "paradigm_shift": "Moving from theoretical mathematical equations on paper to physical generation and broadcast of invisible electromagnetic waves through space, followed by the shock discovery that light travels through a vacuum without an ether medium.",
+            "color": "#ec4899",
+            "bg_glow": "rgba(236, 72, 153, 0.15)"
+        },
+        {
+            "id": 7,
+            "slug": "age-of-relativistic-mechanics",
+            "name": "Age 7: The Age of Relativistic Mechanics",
+            "period": "1905 – 1924 AD",
+            "subtitle": "Spacetime Bends to Preserve the Speed of Light",
+            "paradigm_shift": "Realizing that electricity and magnetism are the exact same phenomenon viewed from different reference frames. Space and time distort so that the speed of electromagnetic waves remains absolute for all observers.",
+            "color": "#f97316",
+            "bg_glow": "rgba(249, 115, 22, 0.15)"
+        },
+        {
+            "id": 8,
+            "slug": "age-of-quantum-electrodynamics",
+            "name": "Age 8: The Age of Quantum Electrodynamics (QED)",
+            "period": "1925 – 1950 AD",
+            "subtitle": "The Dance of Photons and Virtual Particles",
+            "paradigm_shift": "Merging electromagnetism with quantum mechanics. Continuous fields were replaced by quantized packets of light (photons), revealing that charges interact by literally exchanging photons across vacuum space.",
+            "color": "#14b8a6",
+            "bg_glow": "rgba(20, 184, 166, 0.15)"
+        },
+        {
+            "id": 9,
+            "slug": "age-of-electro-weak-unification",
+            "name": "Age 9: The Age of Electro-Weak Unification",
+            "period": "1960s – Present",
+            "subtitle": "Cosmic Temperatures and Merged Fundamental Forces",
+            "paradigm_shift": "Proving that electromagnetism and the weak nuclear force merge into a single Electroweak force at extreme cosmic energies. Discoveries at CERN of W/Z and Higgs bosons experimentally confirmed this deep cosmic synthesis.",
+            "color": "#a855f7",
+            "bg_glow": "rgba(168, 85, 247, 0.15)"
+        },
+        {
+            "id": 10,
+            "slug": "the-current-horizon",
+            "name": "Age 10: The Current Horizon",
+            "period": "Present Frontier",
+            "subtitle": "The Quest for the Grand Unified Theory & ToE",
+            "paradigm_shift": "The ongoing frontier: attempting to merge Electroweak, Strong nuclear force, and Gravity into a single comprehensive Theory of Everything.",
+            "color": "#fbbf24",
+            "bg_glow": "rgba(251, 191, 36, 0.15)"
+        }
+    ],
+    "people": [
+        {
+            "id": "thales_miletus",
+            "name": "Thales of Miletus",
+            "born_year": -624,
+            "died_year": -546,
+            "lifespan_display": "c. 624 – 546 BC",
+            "nationality": "Greek (Ionia)",
+            "bio": "Pre-Socratic philosopher regarded as the founder of natural philosophy."
+        },
+        {
+            "id": "plato",
+            "name": "Plato",
+            "born_year": -428,
+            "died_year": -348,
+            "lifespan_display": "c. 428 – 348 BC",
+            "nationality": "Greek (Athens)",
+            "bio": "Founder of the Academy in Athens; documented non-contact magnetic ring transmission."
+        },
+        {
+            "id": "aristotle",
+            "name": "Aristotle",
+            "born_year": -384,
+            "died_year": -322,
+            "lifespan_display": "384 – 322 BC",
+            "nationality": "Greek (Stagira)",
+            "bio": "Polymath who cataloged Thales's philosophy of animism in minerals in De Anima."
+        },
+        {
+            "id": "han_scholars",
+            "name": "Han Dynasty Scholars",
+            "born_year": -100,
+            "died_year": 100,
+            "lifespan_display": "c. 20 BC – 100 AD",
+            "nationality": "Chinese",
+            "bio": "Imperial scholars and artisans who engineered the first lodestone spoon compass."
+        },
+        {
+            "id": "lucretius",
+            "name": "Lucretius",
+            "born_year": -99,
+            "died_year": -55,
+            "lifespan_display": "c. 99 – 55 BC",
+            "nationality": "Roman",
+            "bio": "Epicurean philosopher and poet who proposed an atomistic vacuum theory of magnetism."
+        },
+        {
+            "id": "pliny_the_elder",
+            "name": "Pliny the Elder",
+            "born_year": 23,
+            "died_year": 79,
+            "lifespan_display": "23 – 79 AD",
+            "nationality": "Roman",
+            "bio": "Roman naturalist who compiled Naturalis Historia, documenting the shock of the electric torpedo fish."
+        },
+        {
+            "id": "alexander_aphrodisias",
+            "name": "Alexander of Aphrodisias",
+            "born_year": 150,
+            "died_year": 215,
+            "lifespan_display": "c. 150 – 215 AD",
+            "nationality": "Greek / Roman",
+            "bio": "Aristotelian commentator who proved magnetism is an inherent chemical property of iron, not a soul."
+        },
+        {
+            "id": "shen_kuo",
+            "name": "Shen Kuo",
+            "born_year": 1031,
+            "died_year": 1095,
+            "lifespan_display": "1031 – 1095 AD",
+            "nationality": "Chinese (Song Dynasty)",
+            "bio": "Astronomer and mathematician who first documented magnetic declination in Dream Pool Essays."
+        },
+        {
+            "id": "petrus_peregrinus",
+            "name": "Petrus Peregrinus de Maricourt",
+            "born_year": 1240,
+            "died_year": 1300,
+            "lifespan_display": "13th Century",
+            "nationality": "French",
+            "bio": "Scholar who wrote Epistola de Magnete, the first experimental treatise identifying magnetic poles."
+        },
+        {
+            "id": "robert_norman",
+            "name": "Robert Norman",
+            "born_year": 1560,
+            "died_year": 1590,
+            "lifespan_display": "16th Century",
+            "nationality": "English",
+            "bio": "Navigational compass maker who invented the dip circle and discovered magnetic inclination."
+        },
+        {
+            "id": "william_gilbert",
+            "name": "William Gilbert",
+            "born_year": 1544,
+            "died_year": 1603,
+            "lifespan_display": "1544 – 1603 AD",
+            "nationality": "English",
+            "bio": "Physician to Queen Elizabeth I, author of De Magnete, who proved the Earth is a magnet."
+        },
+        {
+            "id": "guillaume_nautonier",
+            "name": "Guillaume de Nautonier",
+            "born_year": 1560,
+            "died_year": 1620,
+            "lifespan_display": "1560 – 1620 AD",
+            "nationality": "French",
+            "bio": "Astronomer and geographer who charted global oceanic magnetic declination."
+        },
+        {
+            "id": "niccolo_cabeo",
+            "name": "Niccolo Cabeo",
+            "born_year": 1586,
+            "died_year": 1650,
+            "lifespan_display": "1586 – 1650 AD",
+            "nationality": "Italian",
+            "bio": "Jesuit philosopher who discovered electrical repulsion after attraction."
+        },
+        {
+            "id": "thomas_browne",
+            "name": "Sir Thomas Browne",
+            "born_year": 1605,
+            "died_year": 1682,
+            "lifespan_display": "1605 – 1682 AD",
+            "nationality": "English",
+            "bio": "Polymath and writer who coined the English words electricity and electric in Pseudodoxia Epidemica."
+        },
+        {
+            "id": "otto_von_guericke",
+            "name": "Otto von Guericke",
+            "born_year": 1602,
+            "died_year": 1686,
+            "lifespan_display": "1602 – 1686 AD",
+            "nationality": "German",
+            "bio": "Inventor and physicist who built the first electrostatic generator using a spinning sulfur globe."
+        },
+        {
+            "id": "francis_hauksbee",
+            "name": "Francis Hauksbee",
+            "born_year": 1660,
+            "died_year": 1713,
+            "lifespan_display": "1660 – 1713 AD",
+            "nationality": "English",
+            "bio": "Instrument maker for the Royal Society who discovered electroluminescent discharge in vacuum globes."
+        },
+        {
+            "id": "stephen_gray",
+            "name": "Stephen Gray",
+            "born_year": 1666,
+            "died_year": 1736,
+            "lifespan_display": "1666 – 1736 AD",
+            "nationality": "English",
+            "bio": "Scientist who proved electricity can be conducted hundreds of feet through string, distinguishing conductors and insulators."
+        },
+        {
+            "id": "du_fay",
+            "name": "Charles François de Cisternay du Fay",
+            "born_year": 1698,
+            "died_year": 1739,
+            "lifespan_display": "1698 – 1739 AD",
+            "nationality": "French",
+            "bio": "Superintendent of the Jardin du Roi who discovered vitreous and resinous charges."
+        },
+        {
+            "id": "musschenbroek",
+            "name": "Pieter van Musschenbroek",
+            "born_year": 1692,
+            "died_year": 1761,
+            "lifespan_display": "1692 – 1761 AD",
+            "nationality": "Dutch",
+            "bio": "Physicist at Leiden University who co-invented the Leyden jar capacitor."
+        },
+        {
+            "id": "jean_antoine_nollet",
+            "name": "Jean-Antoine Nollet",
+            "born_year": 1700,
+            "died_year": 1770,
+            "lifespan_display": "1700 – 1770 AD",
+            "nationality": "French",
+            "bio": "Abbé and physicist who tested electrical propagation speed across chains of hundreds of soldiers."
+        },
+        {
+            "id": "benjamin_franklin",
+            "name": "Benjamin Franklin",
+            "born_year": 1706,
+            "died_year": 1790,
+            "lifespan_display": "1706 – 1790 AD",
+            "nationality": "American",
+            "bio": "Polymath who flew the kite experiment, established positive/negative charge conservation, and proved lightning is electricity."
+        },
+        {
+            "id": "ebenezer_kinnersley",
+            "name": "Ebenezer Kinnersley",
+            "born_year": 1711,
+            "died_year": 1778,
+            "lifespan_display": "1711 – 1778 AD",
+            "nationality": "English / American",
+            "bio": "Collaborator of Franklin who invented the electric air thermometer to prove electricity produces physical heat."
+        },
+        {
+            "id": "john_canton",
+            "name": "John Canton",
+            "born_year": 1718,
+            "died_year": 1772,
+            "lifespan_display": "1718 – 1772 AD",
+            "nationality": "English",
+            "bio": "Physicist who discovered electrostatic induction using insulated metal cylinders."
+        },
+        {
+            "id": "wilcke",
+            "name": "Johan Carl Wilcke",
+            "born_year": 1732,
+            "died_year": 1796,
+            "lifespan_display": "1732 – 1796 AD",
+            "nationality": "Swedish",
+            "bio": "Physicist who invented the dissectible capacitor to isolate dielectric charge storage."
+        },
+        {
+            "id": "franz_aepinus",
+            "name": "Franz Aepinus",
+            "born_year": 1724,
+            "died_year": 1802,
+            "lifespan_display": "1724 – 1802 AD",
+            "nationality": "German / Russian",
+            "bio": "Mathematician who published the first mathematical theory uniting electrostatics and magnetism."
+        },
+        {
+            "id": "henry_cavendish",
+            "name": "Henry Cavendish",
+            "born_year": 1731,
+            "died_year": 1810,
+            "lifespan_display": "1731 – 1810 AD",
+            "nationality": "English",
+            "bio": "Eccentric genius who privately discovered the inverse-square law and Ohm's law decades ahead of time."
+        },
+        {
+            "id": "luigi_galvani",
+            "name": "Luigi Galvani",
+            "born_year": 1737,
+            "died_year": 1798,
+            "lifespan_display": "1737 – 1798 AD",
+            "nationality": "Italian",
+            "bio": "Physician who discovered that severed frog nerves twitch when touched with bimetallic metals (animal electricity)."
+        },
+        {
+            "id": "charles_coulomb",
+            "name": "Charles-Augustin de Coulomb",
+            "born_year": 1736,
+            "died_year": 1806,
+            "lifespan_display": "1736 – 1806 AD",
+            "nationality": "French",
+            "bio": "Military engineer who invented the torsion balance and proved the inverse-square law for electrostatic charges."
+        },
+        {
+            "id": "alessandro_volta",
+            "name": "Alessandro Volta",
+            "born_year": 1745,
+            "died_year": 1827,
+            "lifespan_display": "1745 – 1827 AD",
+            "nationality": "Italian",
+            "bio": "Physicist who refuted animal electricity by inventing the voltaic pile (the first continuous electric battery)."
+        },
+        {
+            "id": "romagnosi",
+            "name": "Gian Domenico Romagnosi",
+            "born_year": 1761,
+            "died_year": 1835,
+            "lifespan_display": "1761 – 1835 AD",
+            "nationality": "Italian",
+            "bio": "Philosopher who first observed a compass deflection near a voltaic current in 1802."
+        },
+        {
+            "id": "orsted",
+            "name": "Hans Christian Ørsted",
+            "born_year": 1777,
+            "died_year": 1851,
+            "lifespan_display": "1777 – 1851 AD",
+            "nationality": "Danish",
+            "bio": "Physicist who definitively proved in 1820 that an electric current creates a circular magnetic field."
+        },
+        {
+            "id": "ampere",
+            "name": "André-Marie Ampère",
+            "born_year": 1775,
+            "died_year": 1836,
+            "lifespan_display": "1775 – 1836 AD",
+            "nationality": "French",
+            "bio": "Mathematician who founded electrodynamics and derived the law of attraction/repulsion between parallel currents."
+        },
+        {
+            "id": "faraday",
+            "name": "Michael Faraday",
+            "born_year": 1791,
+            "died_year": 1867,
+            "lifespan_display": "1791 – 1867 AD",
+            "nationality": "English",
+            "bio": "Experimental titan who discovered electromagnetic induction and originated the physical concept of lines of force."
+        },
+        {
+            "id": "maxwell",
+            "name": "James Clerk Maxwell",
+            "born_year": 1831,
+            "died_year": 1879,
+            "lifespan_display": "1831 – 1879 AD",
+            "nationality": "Scottish",
+            "bio": "Theoretical physicist who unified electricity, magnetism, and optics into Maxwell's four equations and proved light is an EM wave."
+        },
+        {
+            "id": "hertz",
+            "name": "Heinrich Hertz",
+            "born_year": 1857,
+            "died_year": 1894,
+            "lifespan_display": "1857 – 1894 AD",
+            "nationality": "German",
+            "bio": "Experimentalist who physically generated and detected radio waves, conclusively validating Maxwell's theory."
+        },
+        {
+            "id": "michelson",
+            "name": "Albert Michelson",
+            "born_year": 1852,
+            "died_year": 1931,
+            "lifespan_display": "1852 – 1931 AD",
+            "nationality": "American",
+            "bio": "Nobel laureate optical physicist who conducted the interferometer ether-drift experiment with Edward Morley."
+        },
+        {
+            "id": "morley",
+            "name": "Edward Morley",
+            "born_year": 1838,
+            "died_year": 1923,
+            "lifespan_display": "1838 – 1923 AD",
+            "nationality": "American",
+            "bio": "Chemist who co-designed the floating slab interferometer for the ether-drift test."
+        },
+        {
+            "id": "lorentz",
+            "name": "Hendrik Lorentz",
+            "born_year": 1853,
+            "died_year": 1928,
+            "lifespan_display": "1853 – 1928 AD",
+            "nationality": "Dutch",
+            "bio": "Formulated the Lorentz force and transformations bridging Maxwellian electrodynamics to special relativity."
+        },
+        {
+            "id": "jj_thomson",
+            "name": "J.J. Thomson",
+            "born_year": 1856,
+            "died_year": 1940,
+            "lifespan_display": "1856 – 1940 AD",
+            "nationality": "English",
+            "bio": "Discovered the electron via cathode ray tube deflection, proving electricity has particulate subatomic carriers."
+        },
+        {
+            "id": "marconi",
+            "name": "Guglielmo Marconi",
+            "born_year": 1874,
+            "died_year": 1937,
+            "lifespan_display": "1874 – 1937 AD",
+            "nationality": "Italian",
+            "bio": "Inventor who transmitted the first transatlantic wireless radio signal from the UK to Canada."
+        },
+        {
+            "id": "planck",
+            "name": "Max Planck",
+            "born_year": 1858,
+            "died_year": 1947,
+            "lifespan_display": "1858 – 1947 AD",
+            "nationality": "German",
+            "bio": "Theoretical physicist who introduced energy quanta (E = hv) to resolve the blackbody ultraviolet catastrophe."
+        },
+        {
+            "id": "einstein",
+            "name": "Albert Einstein",
+            "born_year": 1879,
+            "died_year": 1955,
+            "lifespan_display": "1879 – 1955 AD",
+            "nationality": "German / Swiss / American",
+            "bio": "Formulated Special Relativity and the photon explanation of the photoelectric effect."
+        },
+        {
+            "id": "rutherford",
+            "name": "Ernest Rutherford",
+            "born_year": 1871,
+            "died_year": 1937,
+            "lifespan_display": "1871 – 1937 AD",
+            "nationality": "New Zealander / British",
+            "bio": "Father of nuclear physics who discovered the atomic nucleus with the gold foil alpha scattering experiment."
+        },
+        {
+            "id": "dirac",
+            "name": "Paul Dirac",
+            "born_year": 1902,
+            "died_year": 1984,
+            "lifespan_display": "1902 – 1984 AD",
+            "nationality": "English",
+            "bio": "Theoretical physicist who combined quantum mechanics with special relativity and predicted antimatter."
+        },
+        {
+            "id": "feynman",
+            "name": "Richard Feynman",
+            "born_year": 1918,
+            "died_year": 1988,
+            "lifespan_display": "1918 – 1988 AD",
+            "nationality": "American",
+            "bio": "Nobel laureate who formulated Quantum Electrodynamics (QED) and invented Feynman diagrams."
+        },
+        {
+            "id": "glashow_salam_weinberg",
+            "name": "Sheldon Glashow, Abdus Salam & Steven Weinberg",
+            "born_year": 1932,
+            "died_year": 2021,
+            "lifespan_display": "20th Century",
+            "nationality": "American / Pakistani",
+            "bio": "Theoretical physicists who unified electromagnetism with the weak force into the Electroweak force."
+        },
+        {
+            "id": "cern_physicists",
+            "name": "CERN Collider Teams (UA1/UA2 & ATLAS/CMS)",
+            "born_year": 1954,
+            "died_year": null,
+            "lifespan_display": "1983 & 2012 AD",
+            "nationality": "International Collaboration",
+            "bio": "Experimental physics consortium who discovered the W/Z gauge bosons and the Higgs Boson at the LHC."
+        }
+    ],
+    "experiments": [
+        {
+            "id": "thales_amber_lodestone",
+            "title": "Friction Attraction of Amber & Magnetite",
+            "type": "observation",
+            "year": -600,
+            "display_year": "c. 600 BC",
+            "age_id": 1,
+            "person_id": "thales_miletus",
+            "person_name_override": null,
+            "prior_knowledge": "Objects only move when pushed by human muscle or natural wind/water. The physical world was treated as inert matter without unseen agency.",
+            "question": "What is the fundamental nature of matter, and why do rubbed amber and mineral stones move other objects across empty space without contact?",
+            "method": "Rubbed fossilized tree resin (amber, elektron) against animal pelts and held it near dried straw and feathers. Compared this with natural magnetite lodestones placed near iron shavings.",
+            "conclusion": "Both amber and lodestone possess long-range attraction that draws distant objects without physical push. Thales famously concluded that \"the lodestone has a soul because it moves iron.\"",
+            "significance": "The primordial starting point of physics. Disproved the notion that nature is inert, recognizing invisible forces for the very first time.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can this attractive power be transferred through iron into another object?",
+                "new_question": "Does this force only pull, or can it also guide direction across the earth?",
+                "paradox_question": "Wait, does an inanimate mineral truly have a living soul, or is this a mechanical property of matter?",
+                "recommended_next_id": "plato_magnetic_induction"
+            }
+        },
+        {
+            "id": "plato_magnetic_induction",
+            "title": "The Chain of Magnetic Rings",
+            "type": "observation",
+            "year": -400,
+            "display_year": "c. 400 BC",
+            "age_id": 1,
+            "person_id": "plato",
+            "person_name_override": null,
+            "prior_knowledge": "Lodestones attract iron. But it was assumed the stone alone had the power, and iron was merely a passive recipient.",
+            "question": "How can magnetic power travel through one physical body into another without dissipating or requiring visible contact?",
+            "method": "Suspended an iron ring from a lodestone, then touched a second iron ring to the first, and a third to the second, documenting a hanging chain in the dialogue Ion.",
+            "conclusion": "Magnetic force is contagious and transmissible: the lodestone imparts its motive virtue into the iron ring, temporarily turning the ring itself into a magnet.",
+            "significance": "First documented observation of magnetic induction, showing that forces can propagate through physical structures.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "How many rings can be linked before the virtue weakens?",
+                "new_question": "Why does lodestone only induce this in iron and not bronze or silver?",
+                "paradox_question": "Wait, if power transmits without loss of substance, is it a spirit or atomic flux?",
+                "recommended_next_id": "alexander_intrinsic_property"
+            }
+        },
+        {
+            "id": "aristotle_animism_debate",
+            "title": "Debate on Mineral Soul & Natural Motion",
+            "type": "theory",
+            "year": -350,
+            "display_year": "c. 350 BC",
+            "age_id": 1,
+            "person_id": "aristotle",
+            "person_name_override": null,
+            "prior_knowledge": "Thales claimed stones have souls. Early thinkers wondered if rocks possessed a primitive consciousness or vegetative life.",
+            "question": "Does self-initiated motion in non-living minerals require an internal teleological soul (psyche)?",
+            "method": "Philosophical synthesis and categorization in De Anima, rigorously comparing biological self-locomotion with inanimate magnetic draw.",
+            "conclusion": "Preserved Thales's observations while establishing natural philosophy as the systematic study of causes rather than myth.",
+            "significance": "Established the academic lineage that preserved antiquity's observations for Islamic and Renaissance scholars.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can we measure whether lodestone loses mass as it pulls?",
+                "new_question": "Can invisible particles explain the pull without a soul?",
+                "paradox_question": "Wait, if it is not a soul, what invisible bridge crosses the gap?",
+                "recommended_next_id": "lucretius_atomic_effluvia"
+            }
+        },
+        {
+            "id": "lucretius_atomic_effluvia",
+            "title": "Atomic Effluvia & Vacuum Pull Hypothesis",
+            "type": "theory",
+            "year": -55,
+            "display_year": "c. 55 BC",
+            "age_id": 1,
+            "person_id": "lucretius",
+            "person_name_override": null,
+            "prior_knowledge": "Magnetism was widely attributed to magic, occult sympathy, or mineral souls.",
+            "question": "Can invisible mechanical atomic collisions explain attraction without any spiritual intervention?",
+            "method": "Formulated Epicurean atomistic mechanics in De Rerum Natura, theorizing invisible streams of particles pouring out of lodestone.",
+            "conclusion": "Lodestone constantly emits streams of atoms that sweep away the air between the stone and the iron, creating a vacuum that the iron rushes into to fill.",
+            "significance": "First purely mechanical, non-animist model of action-at-a-distance in recorded history.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "If attraction requires a vacuum, does it work through water or solid walls?",
+                "new_question": "Can lodestone be shaped into an instrument that points north and south?",
+                "paradox_question": "Wait, if particles blast out of the stone, why does it pull rather than blow things away?",
+                "recommended_next_id": "han_spoon_compass"
+            }
+        },
+        {
+            "id": "han_spoon_compass",
+            "title": "The South-Pointing Lodestone Spoon (Sinan)",
+            "type": "invention",
+            "year": -20,
+            "display_year": "c. 20 BC – 100 AD",
+            "age_id": 1,
+            "person_id": "han_scholars",
+            "person_name_override": "Han Dynasty Geomancers & Scholars",
+            "prior_knowledge": "Lodestones pulled iron randomly in whatever direction the iron sat. No one realized lodestones had an intrinsic planetary alignment.",
+            "question": "How can we align imperial architecture and burials harmoniously with the unseen orientation of the cosmos?",
+            "method": "Carved natural lodestone into a balanced spoon-shaped ladle, pivoting it upon a mirror-smooth bronze plate incised with constellations.",
+            "conclusion": "When spun and allowed to come to rest, the handle of the lodestone spoon invariably pointed South. The Earth exerts a directional bias on lodestones.",
+            "significance": "The world's first compass. Magnetism transformed from a curiosity into a planetary navigation technology.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Does it point exactly to the celestial North Star, or does it deviate slightly?",
+                "new_question": "Can a lighter iron needle be magnetized to replace the heavy spoon?",
+                "paradox_question": "Wait, why does it point to the Earth's horizon rather than up at the sun?",
+                "recommended_next_id": "shen_kuo_silk_needle"
+            }
+        },
+        {
+            "id": "pliny_torpedo_shock",
+            "title": "Remote Shock of the Torpedo Ray Fish",
+            "type": "observation",
+            "year": 77,
+            "display_year": "c. 77 AD",
+            "age_id": 1,
+            "person_id": "pliny_the_elder",
+            "person_name_override": null,
+            "prior_knowledge": "Electricity was only known as static friction on amber. Living animals were not known to generate electric shocks.",
+            "question": "What unseen venom or power allows the Torpedo ray to paralyze fishermen through water and bronze spears?",
+            "method": "Compiled natural history reports from Mediterranean divers and spear-fishermen in Naturalis Historia.",
+            "conclusion": "The Torpedo fish transmits an instant paralyzing numbness through water and solid spear shafts, freezing the fisherman's arm muscles from afar.",
+            "significance": "The earliest recorded documentation of bio-electricity, foreshadowing Galvani 1,700 years later.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Is this numbing shock related to rubbed amber sparks?",
+                "new_question": "Can electricity heal human muscular paralysis?",
+                "paradox_question": "Wait, how can a shock travel up a metallic spear without touching skin directly?",
+                "recommended_next_id": "galvani_bioelectricity"
+            }
+        },
+        {
+            "id": "alexander_intrinsic_property",
+            "title": "Chemical Specificity of Magnetic Iron Attraction",
+            "type": "theory",
+            "year": 200,
+            "display_year": "c. 200 AD",
+            "age_id": 1,
+            "person_id": "alexander_aphrodisias",
+            "person_name_override": null,
+            "prior_knowledge": "Common lore claimed lodestones possessed an occult desire or hunger that selectively grabbed metals.",
+            "question": "Why does lodestone attract only iron while ignoring precious gold, silver, and copper?",
+            "method": "Systematic testing of lodestone attraction against assorted metallic ores and non-metallic substances.",
+            "conclusion": "Magnetism is not a living consciousness, but an intrinsic chemical property specific to iron and magnetite ore.",
+            "significance": "Dispelled occult animism in favor of elemental physical specificity.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Does heating the iron change its susceptibility?",
+                "new_question": "Does this intrinsic property have two opposite poles?",
+                "paradox_question": "Wait, what makes iron unique among all metals on Earth?",
+                "recommended_next_id": "petrus_magnetic_poles"
+            }
+        },
+        {
+            "id": "shen_kuo_silk_needle",
+            "title": "Suspended Needle & Magnetic Declination",
+            "type": "experiment",
+            "year": 1088,
+            "display_year": "1088 AD",
+            "age_id": 1,
+            "person_id": "shen_kuo",
+            "person_name_override": null,
+            "prior_knowledge": "Compasses were believed to point directly to the celestial geographic North Pole star.",
+            "question": "Does a suspended magnetized steel needle align precisely with the true celestial North Star?",
+            "method": "Suspended steel needles using a single strand of cocoon silk glued with beeswax in a draft-free chamber, comparing alignment with astronomical meridians.",
+            "conclusion": "The compass needle does not point to true geographic north; it consistently deviates slightly to the east. Discovered magnetic declination.",
+            "significance": "Provided the mathematical blueprint for trans-oceanic navigation and proved Earth's magnetic field is misaligned with its spin axis.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Does this declination angle change depending on where you travel on Earth?",
+                "new_question": "What is the shape of the magnetic field surrounding a magnetic sphere?",
+                "paradox_question": "Wait, if the needle doesn't point to the pole star, what on Earth is pulling it?",
+                "recommended_next_id": "petrus_magnetic_poles"
+            }
+        },
+        {
+            "id": "petrus_magnetic_poles",
+            "title": "Spherical Lodestone Mapping & Pole Indivisibility",
+            "type": "experiment",
+            "year": 1269,
+            "display_year": "1269 AD",
+            "age_id": 1,
+            "person_id": "petrus_peregrinus",
+            "person_name_override": null,
+            "prior_knowledge": "Magnets pulled things, but nobody understood how their force was distributed in three dimensions.",
+            "question": "How is magnetic virtue distributed across the curved surface of a spherical lodestone?",
+            "method": "Crafted a spherical lodestone, placed tiny needles over its surface, and drew lines following their orientation until they converged at two points.",
+            "conclusion": "Discovered that all magnets have two distinct poles (North and South). Breaking a magnet in half does not isolate a pole—it produces two complete, smaller dipoles.",
+            "significance": "Established experimental physics 300 years before Galileo. Proved magnetic monopoles do not exist in nature.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Does the Earth itself act like Peregrinus's spherical lodestone?",
+                "new_question": "Why does a balanced compass needle tilt downwards as well as sideways?",
+                "paradox_question": "Wait, how can cutting a magnet in half instantly manifest new opposite poles at the break?",
+                "recommended_next_id": "robert_norman_dip"
+            }
+        },
+        {
+            "id": "robert_norman_dip",
+            "title": "Discovery of Magnetic Dip (Inclination)",
+            "type": "experiment",
+            "year": 1581,
+            "display_year": "1581 AD",
+            "age_id": 1,
+            "person_id": "robert_norman",
+            "person_name_override": null,
+            "prior_knowledge": "Compasses only rotate in a horizontal plane toward the horizon. Magnetic force was assumed purely planar.",
+            "question": "Why does an iron compass needle balanced horizontally on a pivot tilt sharply downward after being stroked with lodestone?",
+            "method": "Invented the Dip Circle (inclinometer): balanced a steel needle on a horizontal pivot with zero bias, magnetized it, and measured its tilt angle (71°8' in London).",
+            "conclusion": "Discovered magnetic dip (inclination). Magnetic attraction does not pull toward a distant mountain on the horizon, but points deep into the Earth.",
+            "significance": "Proved that magnetic force is fully three-dimensional and originates from inside the planet itself.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Does the dip become 90 degrees vertical if we travel to the far north?",
+                "new_question": "Is the Earth itself a gigantic spherical magnet?",
+                "paradox_question": "Wait, if the Earth is a magnet, is amber attraction also part of this planetary force?",
+                "recommended_next_id": "gilbert_de_magnete"
+            }
+        },
+        {
+            "id": "gilbert_de_magnete",
+            "title": "De Magnete: The Earth as a Magnet & Electricus",
+            "type": "experiment",
+            "year": 1600,
+            "display_year": "1600 AD",
+            "age_id": 2,
+            "person_id": "william_gilbert",
+            "person_name_override": null,
+            "prior_knowledge": "Amber attraction and lodestone magnetism were conflated as the same vague occult phenomenon. The compass was thought to point to the North Star.",
+            "question": "Why do compasses point North, and is electrical amber-attraction identical to magnetic attraction?",
+            "method": "Cast a spherical lodestone model Earth (terrella) and tested dip needles around it. Tested 600+ materials using a balanced brass indicator needle (versorium).",
+            "conclusion": "The Earth is a giant magnet! Magnetism only affects iron and lodestone. Rubbed amber (which he coined electricus) attracts leaves, water, and straw. Drew a hard line separating electricity from magnetism.",
+            "significance": "The birth certificate of modern experimental electromagnetism. Replaced occult magic with empirical mechanical physics.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Does electricus only pull, or can it also repel like magnetic poles do?",
+                "new_question": "Can electricity travel across distances through wires or strings?",
+                "paradox_question": "Wait, if they are separate forces, why do both obey invisible attraction?",
+                "recommended_next_id": "cabeo_electrical_repulsion"
+            }
+        },
+        {
+            "id": "nautonier_global_charting",
+            "title": "Global Maritime Magnetic Charting",
+            "type": "observation",
+            "year": 1603,
+            "display_year": "1603 AD",
+            "age_id": 2,
+            "person_id": "guillaume_nautonier",
+            "person_name_override": null,
+            "prior_knowledge": "Magnetic declination was observed locally, but was believed chaotic and unpredictable on open seas.",
+            "question": "Can magnetic declination and dip be modeled as a predictable mathematical grid across the globe to determine longitude?",
+            "method": "Synthesized trans-oceanic logs from Portuguese, French, and English mariners into The Mecometrie of the Leydestone.",
+            "conclusion": "Earth's magnetic coordinates change systematically across longitude and latitude, validating Gilbert's spherical planetary model.",
+            "significance": "First systematic global electromagnetic field mapping in history.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Does the magnetic field fluctuate over time at the same geographic spot?",
+                "new_question": "Can humans mechanically generate massive static charges without lodestones?",
+                "paradox_question": "Wait, why does magnetic declination drift over decades?",
+                "recommended_next_id": "cabeo_electrical_repulsion"
+            }
+        },
+        {
+            "id": "cabeo_electrical_repulsion",
+            "title": "Discovery of Electrostatic Repulsion",
+            "type": "experiment",
+            "year": 1629,
+            "display_year": "1629 AD",
+            "age_id": 2,
+            "person_id": "niccolo_cabeo",
+            "person_name_override": null,
+            "prior_knowledge": "Gilbert and ancient philosophers defined static electricity solely as an attractive force. Repulsion was believed unique to magnetic like-poles.",
+            "question": "What happens to lightweight filings immediately after they make physical contact with charged amber?",
+            "method": "Rubbed amber blocks in a still chamber and watched dry sawdust, incense particles, and filings jump to the amber, touch it, and bounce violently away.",
+            "conclusion": "Discovered electrical repulsion! After contact, charged amber vigorously pushes matter away before it can attract it again.",
+            "significance": "Proved electricity possesses dual mechanical dynamics (attraction and repulsion) just like magnetism.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can repulsion be amplified to suspend objects in mid-air?",
+                "new_question": "Can rotating mechanical machines generate continuous sparks?",
+                "paradox_question": "Wait, why does contact convert attraction into sudden violent repulsion?",
+                "recommended_next_id": "guericke_sulfur_generator"
+            }
+        },
+        {
+            "id": "browne_coining_electricity",
+            "title": "Formalization of the Word \"Electricity\"",
+            "type": "theory",
+            "year": 1646,
+            "display_year": "1646 AD",
+            "age_id": 2,
+            "person_id": "thomas_browne",
+            "person_name_override": null,
+            "prior_knowledge": "Electrostatic attraction was referred to as \"the amber-effect\" or \"Gilbert's electric virtue\".",
+            "question": "How can natural philosophy categorize these invisible virtues into precise scientific English taxonomy?",
+            "method": "Etymological and experimental survey in Pseudodoxia Epidemica, translating Gilbert's Latin electricus into modern English vernacular.",
+            "conclusion": "Coined the words \"electricity\" and \"electric\", establishing it as an autonomous scientific domain separate from magnetism and alchemy.",
+            "significance": "Gave the science of electricity its permanent name and conceptual boundary.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can we invent a machine that produces electricity on demand?",
+                "new_question": "Can electricity be transmitted through solid objects?",
+                "paradox_question": "Wait, is electricity a material substance or a mechanical motion of ether?",
+                "recommended_next_id": "guericke_sulfur_generator"
+            }
+        },
+        {
+            "id": "guericke_sulfur_generator",
+            "title": "The Rotating Sulfur Electrostatic Generator",
+            "type": "invention",
+            "year": 1663,
+            "display_year": "1663 AD",
+            "age_id": 2,
+            "person_id": "otto_von_guericke",
+            "person_name_override": null,
+            "prior_knowledge": "Scientists had to rub small pieces of amber or glass rods by hand, producing tiny, fleeting sparks.",
+            "question": "Can mechanical rotational motion accumulate continuous, large-scale electrostatic charge beyond manual rubbing?",
+            "method": "Cast a large sphere of sulfur on an iron axle, rotated it rapidly with a hand crank, and pressed dry hands against the spinning sphere.",
+            "conclusion": "Built the first electrostatic generator. The sphere crackled with audible sparks, levitated feathers via repulsion, and glowed in the dark (electroluminescence).",
+            "significance": "Took electricity out of the era of small hand rods into industrial-scale laboratory energy generation.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "What causes the eerie glow in the dark when the globe spins?",
+                "new_question": "What happens if we evacuate air around the glow using a vacuum pump?",
+                "paradox_question": "Wait, how can mechanical friction produce visible light without fire?",
+                "recommended_next_id": "hauksbee_vacuum_glow"
+            }
+        },
+        {
+            "id": "hauksbee_vacuum_glow",
+            "title": "Gas-Discharge Electroluminescence in Vacuum",
+            "type": "experiment",
+            "year": 1705,
+            "display_year": "1705 AD",
+            "age_id": 2,
+            "person_id": "francis_hauksbee",
+            "person_name_override": null,
+            "prior_knowledge": "Static friction produced small crackling sparks in normal air. Electricity was assumed to require air to manifest.",
+            "question": "How does electrical discharge behave inside an evacuated glass vessel containing mercury vapor?",
+            "method": "Placed mercury droplets in a glass globe, pumped out the air using a Boyle vacuum pump, spun it rapidly, and rubbed the glass with his hand.",
+            "conclusion": "The evacuated globe produced a luminous neon-blue discharge bright enough to read by in the dark. Created the ancestor to neon and fluorescent lights.",
+            "significance": "Discovered electroluminescence in low-pressure gases, proving electricity interacts directly with vacuum matter.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can this electrical virtue travel through string or metal to a distant room?",
+                "new_question": "Does electricity flow through all substances equally, or do some block it?",
+                "paradox_question": "Wait, does electricity travel inside the glass or across its outside surface?",
+                "recommended_next_id": "gray_conduction"
+            }
+        },
+        {
+            "id": "gray_conduction",
+            "title": "Discovery of Electrical Conduction & Insulation",
+            "type": "experiment",
+            "year": 1729,
+            "display_year": "1729 AD",
+            "age_id": 2,
+            "person_id": "stephen_gray",
+            "person_name_override": null,
+            "prior_knowledge": "Electricity was assumed to be a localized surface property trapped forever on the rubbed object.",
+            "question": "Can electrical virtue travel away from the excited body through connected materials across long distances?",
+            "method": "Connected damp hemp string to charged glass tubes and suspended the string across castle halls using insulating silk loops (765 feet).",
+            "conclusion": "Discovered conductors and insulators. Electricity flows freely through metals, damp string, and living bodies, but is completely blocked by silk, resin, and glass.",
+            "significance": "Electricity ceased being a static surface property and became recognized as an energetic current capable of traveling.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Are there different types of electricity flowing through the conductor?",
+                "new_question": "Can this traveling fluid be bottled or captured in a storage container?",
+                "paradox_question": "Wait, why does brass wire conduct while silk string insulates?",
+                "recommended_next_id": "du_fay_two_fluids"
+            }
+        },
+        {
+            "id": "du_fay_two_fluids",
+            "title": "Discovery of Vitreous & Resinous Electricity (Two Fluids)",
+            "type": "experiment",
+            "year": 1733,
+            "display_year": "1733 AD",
+            "age_id": 2,
+            "person_id": "du_fay",
+            "person_name_override": null,
+            "prior_knowledge": "All electricity was assumed to be of one single uniform nature.",
+            "question": "Why does a charged body attract some floating gold leaves while simultaneously repelling others?",
+            "method": "Rubbed glass rods with silk (vitreous) and rubbed amber/sealing wax with fur (resinous), testing their interactions against floating gold leaves.",
+            "conclusion": "There are two distinct types of electricity: vitreous and resinous. Formulated the universal law: Like charges repel; opposite charges attract.",
+            "significance": "The first fundamental law of electrostatics, explaining both attraction and repulsion under a single dual-nature framework.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can these two fluids be stored together without instantly neutralizing?",
+                "new_question": "Can we capture and bottle electrical fluid to release massive power at will?",
+                "paradox_question": "Wait, are they really two separate fluids, or surplus and deficit of one single fluid?",
+                "recommended_next_id": "leyden_jar_storage"
+            }
+        },
+        {
+            "id": "leyden_jar_storage",
+            "title": "The Leyden Jar: Storing High-Voltage Electricity",
+            "type": "invention",
+            "year": 1745,
+            "display_year": "1745–1746 AD",
+            "age_id": 3,
+            "person_id": "musschenbroek",
+            "person_name_override": "Musschenbroek & Ewald von Kleist",
+            "prior_knowledge": "Electrical charges vanished the instant friction ceased. Electricity could not be collected, stored, or transported.",
+            "question": "Can electrical fluid be poured into a non-conducting glass container and preserved for later use like water?",
+            "method": "Partially filled a glass bottle with water, suspended an iron nail into it from a friction generator, held the jar in one hand, and touched the nail.",
+            "conclusion": "Invented the Leyden Jar (the first electrical capacitor). Delivered an explosive convulsive shock that dropped researchers to their knees. Stored bulk charge at thousands of volts.",
+            "significance": "Transformed electricity from a fleeting spark into a storable, portable, accumulable force.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "How fast does this stored discharge travel through long circuits?",
+                "new_question": "Where is the charge physically stored: in the water, the metal, or the glass?",
+                "paradox_question": "Wait, is celestial lightning the exact same substance as this bottled jar spark?",
+                "recommended_next_id": "nollet_guard_circuit"
+            }
+        },
+        {
+            "id": "nollet_guard_circuit",
+            "title": "Speed of Electricity Across 180 Royal Guards",
+            "type": "experiment",
+            "year": 1746,
+            "display_year": "1746 AD",
+            "age_id": 3,
+            "person_id": "jean_antoine_nollet",
+            "person_name_override": null,
+            "prior_knowledge": "It was unknown whether electrical conduction required time to travel along a line or occurred instantaneously.",
+            "question": "How fast does an electrical discharge travel through a chain of hundreds of connected human conductors?",
+            "method": "Connected 180 French Royal Guards and later 700 Carthusian monks holding hands with iron wire in a giant circle, discharging a Leyden jar through the line.",
+            "conclusion": "All individuals leaped into the air at the exact same split-second. Concluded that electricity propagates at an astonishing, near-instantaneous velocity.",
+            "significance": "Showed that electrical signals travel fast enough to transmit messages across continents virtually instantly.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can atmospheric thunderclouds charge a Leyden jar directly?",
+                "new_question": "Are vitreous and resinous fluids simply positive and negative states of one fluid?",
+                "paradox_question": "Wait, if it travels instantaneously, does it have mass or momentum?",
+                "recommended_next_id": "franklin_kite_conservation"
+            }
+        },
+        {
+            "id": "franklin_kite_conservation",
+            "title": "Thunderstorm Kite, Single Fluid & Positive/Negative Charge",
+            "type": "experiment",
+            "year": 1751,
+            "display_year": "1751 AD",
+            "age_id": 3,
+            "person_id": "benjamin_franklin",
+            "person_name_override": null,
+            "prior_knowledge": "Lightning was seen as divine fire. Science believed electricity consisted of two distinct opposing fluids (vitreous and resinous).",
+            "question": "Is celestial lightning the exact same electrical phenomenon as laboratory friction sparks, and can electricity be described with a single fluid?",
+            "method": "Flew a silk kite with a pointed wire into thunderclouds, suspended an iron key from hemp twine insulated by silk ribbon, and drew sparks into a Leyden jar.",
+            "conclusion": "Lightning is electricity! Refuted the two-fluid theory: electricity is a single subtle fluid. Surplus of fluid is positive (+); deficit is negative (-). Formulated conservation of charge.",
+            "significance": "Unified celestial and terrestrial electricity. Established the permanent vocabulary of modern physics (+ and - charges, battery, conductor).",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Does passing this charge through wires generate physical thermal heat?",
+                "new_question": "What is the exact mathematical force law between charged bodies at a distance?",
+                "paradox_question": "Wait, if charge is conserved, why does an uncharged conductor get polarized without touching?",
+                "recommended_next_id": "kinnersley_thermometer"
+            }
+        },
+        {
+            "id": "kinnersley_thermometer",
+            "title": "Electrical Resistance Heating & Air Expansion",
+            "type": "experiment",
+            "year": 1752,
+            "display_year": "1752 AD",
+            "age_id": 3,
+            "person_id": "ebenezer_kinnersley",
+            "person_name_override": null,
+            "prior_knowledge": "Electricity was viewed as a cold fluid that caused mechanical shocks without thermodynamic heat.",
+            "question": "Does the passage of electricity generate physical thermal energy when forced through constricted conductors?",
+            "method": "Invented the electrical air thermometer: enclosed fine wires inside a sealed glass vessel connected to a water manometer and discharged Leyden jars through them.",
+            "conclusion": "Discharges through thin wires generate intense thermal heat and sudden air expansion. Discovered electrical resistance heating.",
+            "significance": "Early ancestor to Joule heating and the incandescent light bulb filament.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can electrostatic induction move charges inside a neutral metal body without contact?",
+                "new_question": "Can we mathematically calculate the exact force between two charges?",
+                "paradox_question": "Wait, why do thin wires get hotter than thick wires with the same spark?",
+                "recommended_next_id": "canton_electrostatic_induction"
+            }
+        },
+        {
+            "id": "canton_electrostatic_induction",
+            "title": "Discovery of Electrostatic Induction",
+            "type": "experiment",
+            "year": 1753,
+            "display_year": "1753 AD",
+            "age_id": 3,
+            "person_id": "john_canton",
+            "person_name_override": null,
+            "prior_knowledge": "It was assumed an object could only become electrified by direct physical contact or friction.",
+            "question": "Can an insulated neutral conductor acquire charge states without touching an electrified body?",
+            "method": "Approached an insulated metal cylinder with charged glass rods without contact, observing pith ball electroscopes at both ends of the cylinder.",
+            "conclusion": "Discovered electrostatic induction. The electric field redistributes internal charges: the near end acquires opposite charge, the far end like charge.",
+            "significance": "Demonstrated that electric influence acts across empty air gaps, reorganizing charges inside neutral matter.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Where does the energy live in a capacitor—in the metal plates or the dielectric insulator?",
+                "new_question": "Can these forces be represented by exact mathematical calculus equations?",
+                "paradox_question": "Wait, if the neutral cylinder was not touched, why does grounding the far end leave it permanently charged?",
+                "recommended_next_id": "wilcke_dissectible_capacitor"
+            }
+        },
+        {
+            "id": "wilcke_dissectible_capacitor",
+            "title": "The Dissectible Capacitor: Dielectric Energy Storage",
+            "type": "experiment",
+            "year": 1757,
+            "display_year": "1757 AD",
+            "age_id": 3,
+            "person_id": "wilcke",
+            "person_name_override": null,
+            "prior_knowledge": "It was believed that the Leyden jar's charge resided inside the water or metallic foil linings.",
+            "question": "Where does the stored electrostatic energy physically reside—in the conductive metal or the glass insulator?",
+            "method": "Engineered a modular capacitor with removable metal plates and a central glass pane. Charged it, disassembled the parts, touched the metal plates to discharge them, and reassembled it.",
+            "conclusion": "The reassembled capacitor discharged with full original explosive violence! Charge resides on the surface of the dielectric glass insulator, not in the metal plates.",
+            "significance": "Established dielectric physics and paved the way for Faraday's field theory.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Does air act as a dielectric insulator just like glass?",
+                "new_question": "Does the force drop off proportionally to the square of the distance (1/r^2)?",
+                "paradox_question": "Wait, if the glass holds the charge, how does it leap out through the metal?",
+                "recommended_next_id": "aepinus_mathematical_theory"
+            }
+        },
+        {
+            "id": "aepinus_mathematical_theory",
+            "title": "Mathematical Synthesis of Electrostatics & Magnetism",
+            "type": "theory",
+            "year": 1759,
+            "display_year": "1759 AD",
+            "age_id": 3,
+            "person_id": "franz_aepinus",
+            "person_name_override": null,
+            "prior_knowledge": "Electrostatic theories were qualitative and speculative, lacking Newtonian mathematical force laws.",
+            "question": "Can electrostatics and magnetism be formalized with mathematical rigor analogous to Newton's gravitation?",
+            "method": "Analyzed parallel plate air-capacitors using geometric and algebraic force balances in Tentamen Theoriae Electricitatis et Magnetismi.",
+            "conclusion": "Proved air acts as an insulator preventing charge neutralization. Showed electric and magnetic forces obey identical mathematical attraction and repulsion laws.",
+            "significance": "The first successful application of Newtonian mathematical mechanics to electrostatics and magnetism.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can we build an ultra-sensitive instrument to measure this force in dynes or milligrams?",
+                "new_question": "Does charge distribute exclusively on the exterior surface of a hollow sphere?",
+                "paradox_question": "Wait, if their math is identical, why does electricity flow while magnetism stays locked in iron?",
+                "recommended_next_id": "cavendish_inverse_square"
+            }
+        },
+        {
+            "id": "cavendish_inverse_square",
+            "title": "Concentric Spheres & The Inverse-Square Force Law",
+            "type": "experiment",
+            "year": 1771,
+            "display_year": "1771 AD",
+            "age_id": 3,
+            "person_id": "henry_cavendish",
+            "person_name_override": null,
+            "prior_knowledge": "Newtonian gravity was known to follow 1/r^2. Electrical force was suspected to follow the same rule, but lacked experimental proof.",
+            "question": "Does electrostatic force decay in strict mathematical proportion to the inverse square of distance (1/r^2)?",
+            "method": "Enclosed a metal globe inside two hemispherical shells with an insulating gap, charged the inner globe, connected them via wire, removed the outer shells, and tested the inner globe with a pith ball electrometer.",
+            "conclusion": "No trace of charge remained on the inner globe! Mathematically, this zero-field condition can only occur if the force law is precisely 1/r^2. Anticipated Coulomb and Ohm by decades.",
+            "significance": "Quantitatively proved the inverse-square law for electricity, though left unpublished in private notebooks until Maxwell edited them in 1879.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can an independent torsion balance verify this 1/r^2 law publicly for the world?",
+                "new_question": "Can electricity stimulate animal muscles to move without lightning?",
+                "paradox_question": "Wait, why did Cavendish keep this revolutionary mathematical proof secret in his drawers?",
+                "recommended_next_id": "coulomb_torsion_law"
+            }
+        },
+        {
+            "id": "coulomb_torsion_law",
+            "title": "Coulomb's Law: Torsion Balance Quantitative Electrostatics",
+            "type": "experiment",
+            "year": 1785,
+            "display_year": "1785 AD",
+            "age_id": 3,
+            "person_id": "charles_coulomb",
+            "person_name_override": null,
+            "prior_knowledge": "Electrostatics was qualitative. Everyone debated whether forces decayed as 1/r, 1/r^2, or 1/r^3.",
+            "question": "What is the exact mathematical equation governing the repelling and attracting force between charges and magnetic poles?",
+            "method": "Invented the ultra-sensitive Torsion Balance: a horizontal insulating rod with charged pith balls suspended by a microscopic silver thread. Measured twisting angle against electrical repulsion.",
+            "conclusion": "Formulated Coulomb's Law: F = k * (q1 * q2) / r^2. Force is directly proportional to charge product and inversely proportional to distance squared. Coulomb argued electricity and magnetism were distinct fluids.",
+            "significance": "Elevated electrostatics into an exact quantitative Newtonian science. Established the fundamental constant of electrostatic force.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Does this inverse-square law hold true inside living biological muscle tissue?",
+                "new_question": "Can we generate a continuous, non-stop flow of charge instead of a single spark?",
+                "paradox_question": "Wait, if electricity and magnetism follow the exact same 1/r^2 law, are they truly completely separate fluids?",
+                "recommended_next_id": "galvani_bioelectricity"
+            }
+        },
+        {
+            "id": "galvani_bioelectricity",
+            "title": "Frog Leg Convulsions & \"Animal Electricity\"",
+            "type": "experiment",
+            "year": 1780,
+            "display_year": "c. 1780s AD",
+            "age_id": 4,
+            "person_id": "luigi_galvani",
+            "person_name_override": null,
+            "prior_knowledge": "Electricity came from amber friction, glass globes, or storm clouds. Living muscle was thought to move via \"vital animal spirits\".",
+            "question": "Is electricity the long-sought vital life-force that stimulates nerves and commands muscular movement?",
+            "method": "Dissected frog preparations mounted on iron balcony railings using brass surgical hooks during thunderstorms and clear skies. Observed sudden violent muscle spasms when the two metals bridged nerve and muscle.",
+            "conclusion": "Proposed the theory of \"animal electricity\" (galvanism): living muscle tissue possesses inherent electric fluid that discharges through metallic circuits.",
+            "significance": "Sparked the historic 10-year international debate with Volta that directly led to the invention of the electric battery.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Is the electricity coming from the animal tissue itself, or from the contact between the two different metals?",
+                "new_question": "Can we create a continuous electric current using only metals and saltwater without any dead animals?",
+                "paradox_question": "Wait, why does the frog twitch violently with brass and iron, but barely react with two hooks of pure brass?",
+                "recommended_next_id": "volta_chemical_battery"
+            }
+        },
+        {
+            "id": "volta_chemical_battery",
+            "title": "The Voltaic Pile: The First Chemical Battery",
+            "type": "invention",
+            "year": 1800,
+            "display_year": "1800 AD",
+            "age_id": 4,
+            "person_id": "alessandro_volta",
+            "person_name_override": null,
+            "prior_knowledge": "Galvani believed electricity originated inside animal nerves. All human-made electricity was high-voltage, fleeting static sparks.",
+            "question": "Can continuous electricity be generated using only contact between two dissimilar metals and a moist electrolyte, without any biological tissue?",
+            "method": "Stacked alternating circular discs of zinc and copper, separated by cardboard soaked in brine (saltwater). Connected wires to the top and bottom terminals.",
+            "conclusion": "Invented the Voltaic Pile (the first battery). Refuted Galvani's animal electricity: chemical potential between dissimilar metals produces an uninterrupted, steady stream of continuous direct electric current.",
+            "significance": "The greatest technological leap of the century. Humanity moved from momentary static shocks to an endless river of controlled electrical current.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can this continuous current produce a steady magnetic effect on a compass needle?",
+                "new_question": "Can electric current split water molecules into hydrogen and oxygen (electrolysis)?",
+                "paradox_question": "Wait, does the electricity come from physical contact between metals or chemical reactions with the brine?",
+                "recommended_next_id": "romagnosi_deflection"
+            }
+        },
+        {
+            "id": "romagnosi_deflection",
+            "title": "The Overlooked Needle Deflection",
+            "type": "experiment",
+            "year": 1802,
+            "display_year": "1802 AD",
+            "age_id": 4,
+            "person_id": "romagnosi",
+            "person_name_override": null,
+            "prior_knowledge": "Coulomb firmly proved that electricity and magnetism were completely separate fluids that had no physical interaction.",
+            "question": "Can the continuous current flowing from a Voltaic pile exert a mechanical force on a nearby magnetic compass needle?",
+            "method": "Connected a voltaic pile across a silver chain in close proximity to a pivoted magnetic needle and watched the needle twist.",
+            "conclusion": "Observed needle deflection when current flowed through the chain. Published in an Italian gazette, but the scientific establishment overlooked it.",
+            "significance": "The first peer-to-peer experimental hint of electromagnetism, 18 years before Ørsted's famous demonstration.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can this deflection be demonstrated systematically in front of a major university audience?",
+                "new_question": "Does the magnetic field encircle the wire in concentric rings?",
+                "paradox_question": "Wait, why did the world ignore Romagnosi while celebrating Ørsted 18 years later?",
+                "recommended_next_id": "orsted_electromagnetism"
+            }
+        },
+        {
+            "id": "orsted_electromagnetism",
+            "title": "Discovery of Electromagnetism: The Current-Compass Bridge",
+            "type": "experiment",
+            "year": 1820,
+            "display_year": "1820 AD",
+            "age_id": 5,
+            "person_id": "orsted",
+            "person_name_override": null,
+            "prior_knowledge": "Coulomb's dogma held sway: electricity and magnetism were separate natural fluids. Current was electricity; compasses were magnetism.",
+            "question": "Does an electric current travelling through a conductive wire generate a circular magnetic influence in the surrounding space?",
+            "method": "During a university lecture in Copenhagen, held a wire connected to a voltaic battery directly parallel to and above a pivoted magnetic compass needle and switched on the current.",
+            "conclusion": "The compass needle deflected sharply to sit perpendicular (90 degrees) to the wire! An electric current creates a circular magnetic field around itself. Discovered Electromagnetism.",
+            "significance": "The definitive bridge between electricity and magnetism. Shattered 2,400 years of division and founded modern electrodynamics.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "If a current acts like a magnet, do two current-carrying wires attract or repel each other?",
+                "new_question": "If electricity creates magnetism, can magnetism in turn create electricity?",
+                "paradox_question": "Wait, why does the needle deflect perpendicular to the wire instead of pointing along the direction of current?",
+                "recommended_next_id": "ampere_electrodynamics"
+            }
+        },
+        {
+            "id": "ampere_electrodynamics",
+            "title": "Ampère's Law & Electrodynamics of Parallel Currents",
+            "type": "theory",
+            "year": 1820,
+            "display_year": "1820s AD",
+            "age_id": 5,
+            "person_id": "ampere",
+            "person_name_override": null,
+            "prior_knowledge": "Ørsted showed current deflects a permanent magnet. Nobody knew if currents interacted directly with other currents.",
+            "question": "How do two current-carrying wires interact physically with each other in the complete absence of any permanent magnets?",
+            "method": "Constructed mobile balanced wire frames with commutators to measure mechanical forces between parallel and perpendicular electrical circuits.",
+            "conclusion": "Two parallel wires carrying currents in the same direction attract each other; opposite currents repel! Theorized that all magnetism is caused by microscopic circular currents at the atomic level.",
+            "significance": "Founded electrodynamics and formulated Ampère's circuital law, transforming qualitative needle deflection into mathematical physics.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can a moving magnetic field induce an electric current in a dormant wire coil?",
+                "new_question": "What would the lines of force look like if we sprinkled iron filings around the wire?",
+                "paradox_question": "Wait, if currents attract, why don't electrons inside the wire blow the wire apart from Coulomb repulsion?",
+                "recommended_next_id": "faraday_electromagnetic_induction"
+            }
+        },
+        {
+            "id": "faraday_electromagnetic_induction",
+            "title": "Discovery of Electromagnetic Induction & Physical Lines of Force",
+            "type": "experiment",
+            "year": 1831,
+            "display_year": "1831 AD",
+            "age_id": 5,
+            "person_id": "faraday",
+            "person_name_override": null,
+            "prior_knowledge": "Electricity creates magnetism (Ørsted). Scientists tried wrapping coils around magnets, but static magnetic fields generated zero electricity.",
+            "question": "If electricity creates magnetism, can magnetism in turn generate electricity, and what physical medium bridges the empty space?",
+            "method": "Wound two insulated copper coils around a soft iron ring. Discovered current only flowed in the secondary coil when the primary current was connected or disconnected. Slid bar magnets into coils to induce continuous current.",
+            "conclusion": "Discovered electromagnetic induction! Only a CHANGING magnetic field generates electric current. Originated the physical concept of \"fields\" and magnetic lines of force.",
+            "significance": "Invented the electric motor, generator, and transformer. The foundation of modern electrical power grids and physical field theory.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can these physical lines of force be formulated into a unified set of mathematical wave equations?",
+                "new_question": "Do electromagnetic waves travel through space at the exact speed of light?",
+                "paradox_question": "Wait, how can moving a magnet push electrons in a wire that the magnet never physically touches?",
+                "recommended_next_id": "maxwell_electromagnetic_equations"
+            }
+        },
+        {
+            "id": "maxwell_electromagnetic_equations",
+            "title": "Maxwell's Equations: The Synthesis of Light & Electromagnetism",
+            "type": "theory",
+            "year": 1865,
+            "display_year": "1861–1865 AD",
+            "age_id": 5,
+            "person_id": "maxwell",
+            "person_name_override": null,
+            "prior_knowledge": "Electricity, magnetism, and light were treated as three completely separate domains of physics.",
+            "question": "Can the physical lines of force conceived by Faraday be unified into a single rigorous mathematical field theory?",
+            "method": "Formulated Maxwell's Equations in A Dynamical Theory of the Electromagnetic Field. Added the \"displacement current\" term to Ampère's law to ensure charge conservation.",
+            "conclusion": "Electricity and magnetism are two aspects of a single self-propagating wave. Calculated electromagnetic wave speed mathematically: c = 1 / sqrt(mu0 * epsilon0) = 300,000 km/s. Concluded that light itself is an electromagnetic wave!",
+            "significance": "The second great unification in physics (after Newton). Predicted the existence of radio waves, microwave, X-rays, and the entire electromagnetic spectrum.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can invisible electromagnetic waves be created and detected physically in a laboratory?",
+                "new_question": "What physical medium (the Luminiferous Ether) carries these waves through the vacuum of space?",
+                "paradox_question": "Wait, if light is an electromagnetic wave, why doesn't its speed change when you move towards it?",
+                "recommended_next_id": "hertz_radio_waves"
+            }
+        },
+        {
+            "id": "hertz_radio_waves",
+            "title": "Physical Generation & Detection of Radio Waves",
+            "type": "experiment",
+            "year": 1887,
+            "display_year": "1887 AD",
+            "age_id": 6,
+            "person_id": "hertz",
+            "person_name_override": null,
+            "prior_knowledge": "Maxwell's equations were brilliant on paper, but many physicists doubted electromagnetic waves were physically real.",
+            "question": "Do invisible electromagnetic waves predicted by Maxwell genuinely propagate across open space at the speed of light?",
+            "method": "Built a high-voltage spark-gap oscillator with parabolic zinc mirrors and a tiny wire receiver ring across the room with a microscopic spark-gap.",
+            "conclusion": "Sparks across the transmitter caused tiny sympathetic sparks in the receiver across the room! Proved radio waves exist, travel at the speed of light, and exhibit reflection, refraction, and polarization.",
+            "significance": "Experimentally validated Maxwell's theory and gave birth to wireless radio, television, radar, and mobile telecommunications.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can these radio waves be beamed across oceans to communicate globally?",
+                "new_question": "Can we measure the Earth's motion through the Luminiferous Ether medium?",
+                "paradox_question": "Wait, when UV light hits the spark gap, why do sparks jump more easily (the photoelectric anomaly)?",
+                "recommended_next_id": "michelson_morley_null_ether"
+            }
+        },
+        {
+            "id": "michelson_morley_null_ether",
+            "title": "The Michelson-Morley Null Result: Shattering the Ether",
+            "type": "experiment",
+            "year": 1887,
+            "display_year": "1887 AD",
+            "age_id": 6,
+            "person_id": "michelson",
+            "person_name_override": "Albert Michelson & Edward Morley",
+            "prior_knowledge": "All waves (sound, water) require a physical medium. Light was universally assumed to propagate through an invisible \"Luminiferous Ether\" filling all space.",
+            "question": "Can the orbital motion of Earth through the stationary Luminiferous Ether be detected by measuring the speed variance of perpendicular light beams?",
+            "method": "Constructed an optical interferometer on a 1.5-meter sandstone slab floating on a pool of mercury. Split a light beam into perpendicular arms, reflected them back, and inspected interference fringes as the table rotated.",
+            "conclusion": "The most famous null experiment in physics history! The speed of light is completely identical in all directions regardless of Earth's orbital velocity. The Luminiferous Ether does not exist.",
+            "significance": "Broke classical Newtonian physics and set the stage for Einstein's Special Theory of Relativity.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Do moving objects physically contract in length to conceal the ether drift (Lorentz)?",
+                "new_question": "Does electricity have an indivisible subatomic particle carrier?",
+                "paradox_question": "Wait, if there is no ether medium, what on earth is oscillating when an electromagnetic wave travels through empty space?",
+                "recommended_next_id": "einstein_special_relativity"
+            }
+        },
+        {
+            "id": "lorentz_transformations",
+            "title": "Lorentz Force & Relativistic Coordinate Transformations",
+            "type": "theory",
+            "year": 1895,
+            "display_year": "1892–1904 AD",
+            "age_id": 6,
+            "person_id": "lorentz",
+            "person_name_override": null,
+            "prior_knowledge": "Galilean relativity worked for Newton's mechanics, but broke down completely when applied to Maxwell's electromagnetic equations.",
+            "question": "How does an electromagnetic field exert force upon moving microscopic point charges, and how must coordinates transform between moving systems?",
+            "method": "Formulated the Lorentz Force equation F = q(E + v x B) and derived the mathematical Lorentz Transformations incorporating length contraction and local time.",
+            "conclusion": "Maxwell's equations remain invariant across moving reference frames only if moving objects contract along their motion axis and time slows down.",
+            "significance": "The direct mathematical stepping stone that allowed Einstein to formulate Special Relativity.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Are length contraction and time dilation physical properties of spacetime itself?",
+                "new_question": "What is the exact mass and charge of the subatomic particle carrying electric current?",
+                "paradox_question": "Wait, is local time just a mathematical trick, or do real clocks genuinely tick slower when moving?",
+                "recommended_next_id": "einstein_special_relativity"
+            }
+        },
+        {
+            "id": "thomson_electron_discovery",
+            "title": "Discovery of the Electron: Cathode Ray Deflection",
+            "type": "experiment",
+            "year": 1897,
+            "display_year": "1897 AD",
+            "age_id": 7,
+            "person_id": "jj_thomson",
+            "person_name_override": null,
+            "prior_knowledge": "Atoms were assumed to be solid, indivisible billiard balls. Electricity was considered a continuous fluid or wave.",
+            "question": "Are cathode rays mysterious ether waves, or streams of negatively charged subatomic particles?",
+            "method": "Deflected cathode rays inside a vacuum tube using crossed electrostatic plates and magnetic coils, measuring their curvature to calculate mass-to-charge ratio (m/e).",
+            "conclusion": "Discovered the electron! Proved cathode rays consist of particles 1,800 times lighter than a hydrogen atom. Electricity is made of discrete subatomic quanta of negative charge.",
+            "significance": "The first subatomic particle discovered in human history. Demolished the indivisible atom and birthed particle physics.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "How are these negative electrons arranged inside the neutral atom?",
+                "new_question": "Is light energy also composed of indivisible particle packets?",
+                "paradox_question": "Wait, if atoms are full of negative electrons, where is the balancing positive charge hiding?",
+                "recommended_next_id": "rutherford_atomic_nucleus"
+            }
+        },
+        {
+            "id": "marconi_transatlantic_radio",
+            "title": "Transatlantic Wireless Radio Transmission",
+            "type": "invention",
+            "year": 1901,
+            "display_year": "1901 AD",
+            "age_id": 6,
+            "person_id": "marconi",
+            "person_name_override": null,
+            "prior_knowledge": "Physicists calculated that electromagnetic waves travel in straight lines and could never bend over the curvature of the Atlantic Ocean.",
+            "question": "Can wireless electromagnetic signals travel 2,100 miles over the curved horizon of the Earth to connect continents?",
+            "method": "Erected high-power spark transmitters in Cornwall, England and used a 500-foot kite-lifted antenna at Signal Hill, Newfoundland to listen for Morse letter \"S\".",
+            "conclusion": "Received the transatlantic radio signal across 2,100 miles! Unknowingly bounced radio waves off the ionosphere.",
+            "significance": "Brought electromagnetic physics into global commercial telecommunication, shrinking the planet.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "What upper atmospheric layer acts as a mirror for radio waves?",
+                "new_question": "How can quantum physics explain the photoelectric effect on antennas?",
+                "paradox_question": "Wait, why do radio waves curve around the Earth while visible light travels in straight lines?",
+                "recommended_next_id": "einstein_photoelectric_quanta"
+            }
+        },
+        {
+            "id": "einstein_photoelectric_quanta",
+            "title": "The Light Quantum (Photon) & The Photoelectric Effect",
+            "type": "theory",
+            "year": 1905,
+            "display_year": "1900–1905 AD",
+            "age_id": 8,
+            "person_id": "einstein",
+            "person_name_override": "Max Planck & Albert Einstein",
+            "prior_knowledge": "Maxwell proved light is a continuous wave. Classical physics predicted higher wave intensity should eject faster electrons from metals.",
+            "question": "Why does electron ejection from metals depend strictly on light frequency rather than brightness, and why does glowing blackbody radiation avoid ultraviolet catastrophe?",
+            "method": "Applied Planck's quantum hypothesis (E = hv) to light propagation: proposed light energy is absorbed and emitted in discrete packets (quanta / photons).",
+            "conclusion": "Light possesses dual wave-particle nature. A photon strikes an electron like a tiny bullet, giving up its discrete quantum of energy all at once.",
+            "significance": "Won Einstein the 1921 Nobel Prize in Physics and laid the foundation for Quantum Mechanics.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can wave-particle duality apply to electrons and matter as well as light?",
+                "new_question": "How does special relativity explain magnetism as a consequence of moving electricity?",
+                "paradox_question": "Wait, if light is made of particles, how can it still produce interference wave fringes in a double-slit experiment?",
+                "recommended_next_id": "einstein_special_relativity"
+            }
+        },
+        {
+            "id": "einstein_special_relativity",
+            "title": "Special Relativity: Electrodynamics of Moving Bodies",
+            "type": "theory",
+            "year": 1905,
+            "display_year": "1905 AD",
+            "age_id": 7,
+            "person_id": "einstein",
+            "person_name_override": null,
+            "prior_knowledge": "Newton's absolute space and time were the unshakeable bedrock of science. Light was assumed to travel through an ether frame.",
+            "question": "What would a light wave look like if you ran alongside it at the speed of light, and why do Maxwell's equations treat moving magnets and conductors differently?",
+            "method": "Formulated Special Relativity from two postulates: the laws of physics are identical in all inertial frames, and the speed of light in vacuum is constant for all observers.",
+            "conclusion": "Time slows down, lengths contract, and mass increases with velocity. Proved that magnetism is merely the relativistic electrostatic attraction of charges in motion!",
+            "significance": "Unified space and time into 4D spacetime (E = mc^2). Proved electricity and magnetism are one single tensor phenomenon viewed from moving reference frames.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can we unify special relativity with quantum wave mechanics for the electron?",
+                "new_question": "How are electrons distributed inside the atomic core?",
+                "paradox_question": "Wait, if moving charges create magnetic fields, does an observer moving alongside the charge see zero magnetic field?",
+                "recommended_next_id": "rutherford_atomic_nucleus"
+            }
+        },
+        {
+            "id": "rutherford_atomic_nucleus",
+            "title": "The Gold Foil Alpha Scattering & The Atomic Nucleus",
+            "type": "experiment",
+            "year": 1911,
+            "display_year": "1911 AD",
+            "age_id": 7,
+            "person_id": "rutherford",
+            "person_name_override": null,
+            "prior_knowledge": "Thomson's plum pudding model assumed positive charge was a diffuse, spongy cloud with electrons embedded inside.",
+            "question": "How is positive and negative electrical charge structured inside the volume of an individual atom?",
+            "method": "Fired high-speed alpha particles at an ultra-thin gold foil sheet in a dark room, using a zinc sulfide screen to detect deflection flashes.",
+            "conclusion": "Most alpha particles passed straight through, but 1 in 8,000 bounced directly backwards! Discovered the atomic nucleus: 99.9% of atomic mass and positive charge is concentrated in a tiny core, held by Coulomb force.",
+            "significance": "Revealed the planetary structure of the atom and proved Coulomb's electrostatic law holds down to 10^-14 meters.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Why don't orbiting negative electrons radiate energy and crash into the positive nucleus in nanoseconds?",
+                "new_question": "Can relativistic quantum mechanics predict antimatter for the electron?",
+                "paradox_question": "Wait, what keeps multiple positive protons from flying apart inside the dense nucleus via Coulomb repulsion?",
+                "recommended_next_id": "dirac_antimatter_equation"
+            }
+        },
+        {
+            "id": "dirac_antimatter_equation",
+            "title": "The Relativistic Dirac Equation & Antimatter Prediction",
+            "type": "theory",
+            "year": 1928,
+            "display_year": "1928 AD",
+            "age_id": 8,
+            "person_id": "dirac",
+            "person_name_override": null,
+            "prior_knowledge": "Schrödinger's quantum wave mechanics violated Einstein's special relativity. The electron's spin was an unexplained ad-hoc mystery.",
+            "question": "Can quantum wave mechanics and Einstein's special relativity be reconciled in a single relativistic wave equation for the electron?",
+            "method": "Derived the 4-component matrix Dirac Equation uniting special relativistic energy-momentum invariant with quantum operators.",
+            "conclusion": "Electron spin emerged automatically from spacetime geometry! The equation had negative energy solutions, mathematically predicting antimatter (the positron, discovered by Anderson in 1932).",
+            "significance": "The first relativistic quantum field theory. Predicted antimatter and set the stage for modern particle physics.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "How can we calculate electron-photon interactions without encountering infinite energy answers?",
+                "new_question": "Can electromagnetic forces be visualized as virtual particle exchanges?",
+                "paradox_question": "Wait, what happens when an electron collides with a positron—do they convert 100% into pure electromagnetic gamma photons?",
+                "recommended_next_id": "feynman_qed_diagrams"
+            }
+        },
+        {
+            "id": "feynman_qed_diagrams",
+            "title": "Quantum Electrodynamics (QED) & Virtual Photon Exchange",
+            "type": "theory",
+            "year": 1948,
+            "display_year": "1945–1948 AD",
+            "age_id": 8,
+            "person_id": "feynman",
+            "person_name_override": "Richard Feynman, Julian Schwinger & Shinichiro Tomonaga",
+            "prior_knowledge": "Classical fields treated charge interactions as smooth continuous forces across vacuum, but quantum field equations blew up to meaningless mathematical infinities.",
+            "question": "How can the infinite self-energy values in quantum field theory be renormalized to make exact physical predictions for light and electrons?",
+            "method": "Developed Quantum Electrodynamics (QED) and invented Feynman Diagrams to calculate particle scattering via virtual photon exchange; developed renormalization mathematics.",
+            "conclusion": "Charges interact by constantly throwing virtual photons back and forth across space. QED matched the electron's anomalous magnetic moment to 12 decimal places—the most accurate scientific theory in history.",
+            "significance": "Completed the quantum mechanical description of electromagnetism. Provided the gauge theory template for all future fundamental forces.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can electromagnetism be merged with the weak nuclear force at high cosmic energy scales?",
+                "new_question": "What particle gives mass to the W and Z gauge bosons (the Higgs mechanism)?",
+                "paradox_question": "Wait, if virtual photons mediate electromagnetic force, why can't we detect them directly with a sensor?",
+                "recommended_next_id": "electroweak_unification_theory"
+            }
+        },
+        {
+            "id": "electroweak_unification_theory",
+            "title": "Electroweak Unification: Merging EM & Weak Nuclear Forces",
+            "type": "theory",
+            "year": 1967,
+            "display_year": "1967–1979 AD",
+            "age_id": 9,
+            "person_id": "glashow_salam_weinberg",
+            "person_name_override": null,
+            "prior_knowledge": "Electromagnetism (long range) and the Weak Nuclear Force (ultra-short range radioactive decay) were treated as two completely distinct fundamental forces.",
+            "question": "Are electromagnetism and the weak force unified under a single gauge symmetry group at the extreme temperatures of the early universe?",
+            "method": "Formulated Electroweak Theory using SU(2) x U(1) gauge symmetry and spontaneous symmetry breaking via the Higgs mechanism.",
+            "conclusion": "At energies above 100 GeV, electromagnetism and the weak force merge into one single Electroweak force! Predicted the existence of heavy neutral Z0 and charged W+/- bosons.",
+            "significance": "The third great unification in physics. Reduced the fundamental forces of nature from four down to three and won the 1979 Nobel Prize.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Can high-energy particle colliders smash particles to create and detect these predicted W, Z, and Higgs bosons?",
+                "new_question": "Can the Electroweak force merge with the Strong Nuclear force into a Grand Unified Theory (GUT)?",
+                "paradox_question": "Wait, why is the photon massless while the W and Z bosons are nearly 100 times heavier than a proton?",
+                "recommended_next_id": "cern_boson_discoveries"
+            }
+        },
+        {
+            "id": "cern_boson_discoveries",
+            "title": "CERN Collider Discoveries: W/Z Bosons & The Higgs Field",
+            "type": "experiment",
+            "year": 1983,
+            "display_year": "1983 & 2012 AD",
+            "age_id": 9,
+            "person_id": "cern_physicists",
+            "person_name_override": null,
+            "prior_knowledge": "Electroweak theory was an elegant mathematical model, but lacked physical experimental proof for its heavy gauge carriers and Higgs boson.",
+            "question": "Can ultra-high energy particle colliders recreate Big Bang conditions to physically produce and measure the W, Z, and Higgs bosons?",
+            "method": "Smashed protons and antiprotons at CERN SPS (UA1/UA2) to discover W/Z in 1983. Built the 27-kilometer Large Hadron Collider (LHC) colliding protons at 13 TeV to detect the Higgs in 2012.",
+            "conclusion": "Discovered the W and Z bosons in 1983 and the 125 GeV Higgs Boson in 2012! Decisively confirmed the Electroweak unification and the mass generation mechanism.",
+            "significance": "Triumph of experimental particle physics, completing the Standard Model of particle physics.",
+            "macro_shift": false,
+            "next_paths": {
+                "confirm_question": "Can we detect proton decay to confirm Grand Unified Theories (GUT)?",
+                "new_question": "How can gravity be reconciled with the quantum Electroweak Standard Model?",
+                "paradox_question": "Wait, why does the Higgs mass sit precisely at 125 GeV, at the edge of vacuum stability?",
+                "recommended_next_id": "frontier_gut_toe"
+            }
+        },
+        {
+            "id": "frontier_gut_toe",
+            "title": "The Frontier Horizon: Grand Unification & Theory of Everything",
+            "type": "theory",
+            "year": 2026,
+            "display_year": "Present Frontier",
+            "age_id": 10,
+            "person_id": null,
+            "person_name_override": "Theoretical & Experimental Frontiers",
+            "prior_knowledge": "The Standard Model successfully unifies Electroweak and Strong forces mathematically, but completely ignores Einstein's General Relativity (gravity).",
+            "question": "Can the Electroweak force, Strong nuclear force, and Gravity be unified into one single master equation describing the entire universe?",
+            "method": "Exploring String Theory, M-Theory, Loop Quantum Gravity, and searching for proton decay at Hyper-Kamiokande, primordial gravitational waves, and dark matter.",
+            "conclusion": "The ultimate quest of physics: resolving the conflict between quantum field theory and curved spacetime to achieve a Theory of Everything (ToE).",
+            "significance": "Brings humanity's 2,600-year story from Thales gazing at amber full circle to the unified origin of all cosmic forces.",
+            "macro_shift": true,
+            "next_paths": {
+                "confirm_question": "Will the next generation collider discover supersymmetry or dark matter candidates?",
+                "new_question": "Does spacetime itself break down into discrete quantum pixels at the Planck length (10^-35 m)?",
+                "paradox_question": "Wait, why is gravity so mind-bogglingly weak compared to the electromagnetic force (10^36 times weaker)?",
+                "recommended_next_id": "thales_amber_lodestone"
+            }
+        }
+    ],
+    "connections": [
+        {
+            "source_experiment_id": "plato_magnetic_induction",
+            "target_experiment_id": "thales_amber_lodestone",
+            "type": "builds_on",
+            "description": "Extended Thales's observation of magnetic attraction by proving magnetic virtue transmits through multiple iron bodies."
+        },
+        {
+            "source_experiment_id": "aristotle_animism_debate",
+            "target_experiment_id": "thales_amber_lodestone",
+            "type": "builds_on",
+            "description": "Preserved and philosophically debated Thales's early concept of motive mineral souls in De Anima."
+        },
+        {
+            "source_experiment_id": "lucretius_atomic_effluvia",
+            "target_experiment_id": "thales_amber_lodestone",
+            "type": "refutes",
+            "description": "Rejected Thales's animist soul explanation in favor of mechanical atomistic effluvia and vacuum rushes."
+        },
+        {
+            "source_experiment_id": "han_spoon_compass",
+            "target_experiment_id": "thales_amber_lodestone",
+            "type": "builds_on",
+            "description": "Transformed natural lodestone attraction into a directional south-pointing orientation ladle."
+        },
+        {
+            "source_experiment_id": "alexander_intrinsic_property",
+            "target_experiment_id": "thales_amber_lodestone",
+            "type": "refutes",
+            "description": "Refuted animist theories by demonstrating that magnetic attraction is an intrinsic chemical property specific to iron."
+        },
+        {
+            "source_experiment_id": "shen_kuo_silk_needle",
+            "target_experiment_id": "han_spoon_compass",
+            "type": "builds_on",
+            "description": "Replaced the friction-heavy spoon with a delicate suspended silk needle, discovering magnetic declination."
+        },
+        {
+            "source_experiment_id": "petrus_magnetic_poles",
+            "target_experiment_id": "shen_kuo_silk_needle",
+            "type": "builds_on",
+            "description": "Used needle orientation to map magnetic lines and discover the two poles and dipole indivisibility."
+        },
+        {
+            "source_experiment_id": "robert_norman_dip",
+            "target_experiment_id": "petrus_magnetic_poles",
+            "type": "builds_on",
+            "description": "Applied Peregrinus's 3D magnetic geometry to compass needles, discovering the downward tilt (magnetic dip)."
+        },
+        {
+            "source_experiment_id": "gilbert_de_magnete",
+            "target_experiment_id": "robert_norman_dip",
+            "type": "confirms",
+            "description": "Replicated Norman's dip needle on a spherical miniature Earth (terrella) to prove Earth is a giant magnet."
+        },
+        {
+            "source_experiment_id": "gilbert_de_magnete",
+            "target_experiment_id": "thales_amber_lodestone",
+            "type": "refutes",
+            "description": "Shattered 2,200 years of conflating amber and lodestones, drawing a strict line separating electricity from magnetism."
+        },
+        {
+            "source_experiment_id": "nautonier_global_charting",
+            "target_experiment_id": "shen_kuo_silk_needle",
+            "type": "confirms",
+            "description": "Confirmed Shen Kuo's declination variance on a global oceanic navigational scale."
+        },
+        {
+            "source_experiment_id": "nautonier_global_charting",
+            "target_experiment_id": "gilbert_de_magnete",
+            "type": "builds_on",
+            "description": "Used Gilbert's planetary magnet model to construct global maritime navigation tables."
+        },
+        {
+            "source_experiment_id": "cabeo_electrical_repulsion",
+            "target_experiment_id": "gilbert_de_magnete",
+            "type": "builds_on",
+            "description": "Corrected Gilbert's definition that electricity only attracts by demonstrating violent electrostatic repulsion after contact."
+        },
+        {
+            "source_experiment_id": "browne_coining_electricity",
+            "target_experiment_id": "gilbert_de_magnete",
+            "type": "builds_on",
+            "description": "Popularized Gilbert's Latin electricus into the modern English scientific term electricity."
+        },
+        {
+            "source_experiment_id": "guericke_sulfur_generator",
+            "target_experiment_id": "cabeo_electrical_repulsion",
+            "type": "confirms",
+            "description": "Confirmed Cabeo's repulsion on a massive mechanical scale, floating charged feathers in mid-air."
+        },
+        {
+            "source_experiment_id": "hauksbee_vacuum_glow",
+            "target_experiment_id": "guericke_sulfur_generator",
+            "type": "builds_on",
+            "description": "Replaced Guericke's sulfur ball with an evacuated glass globe, discovering electroluminescence."
+        },
+        {
+            "source_experiment_id": "gray_conduction",
+            "target_experiment_id": "gilbert_de_magnete",
+            "type": "refutes",
+            "description": "Proved electricity is not trapped on the surface of rubbed bodies, but travels through conductors across distances."
+        },
+        {
+            "source_experiment_id": "du_fay_two_fluids",
+            "target_experiment_id": "gray_conduction",
+            "type": "builds_on",
+            "description": "Discovered that the conducted electrical virtue comes in two opposite types (vitreous and resinous)."
+        },
+        {
+            "source_experiment_id": "leyden_jar_storage",
+            "target_experiment_id": "gray_conduction",
+            "type": "builds_on",
+            "description": "Combined Gray's conductors (water/wire) and insulators (glass) to accumulate and bottle high-voltage electricity."
+        },
+        {
+            "source_experiment_id": "nollet_guard_circuit",
+            "target_experiment_id": "leyden_jar_storage",
+            "type": "builds_on",
+            "description": "Discharged the Leyden jar through a circle of 180 Royal Guards to measure electrical speed."
+        },
+        {
+            "source_experiment_id": "franklin_kite_conservation",
+            "target_experiment_id": "du_fay_two_fluids",
+            "type": "refutes",
+            "description": "Overthrew Du Fay's two-fluid model in favor of a single fluid with positive (+) and negative (-) charges."
+        },
+        {
+            "source_experiment_id": "franklin_kite_conservation",
+            "target_experiment_id": "leyden_jar_storage",
+            "type": "confirms",
+            "description": "Proved Leyden jars can store celestial storm lightning exactly like laboratory friction sparks."
+        },
+        {
+            "source_experiment_id": "kinnersley_thermometer",
+            "target_experiment_id": "franklin_kite_conservation",
+            "type": "builds_on",
+            "description": "Collaborated with Franklin to prove that the passage of electric fluid creates physical thermal heating."
+        },
+        {
+            "source_experiment_id": "canton_electrostatic_induction",
+            "target_experiment_id": "franklin_kite_conservation",
+            "type": "builds_on",
+            "description": "Provided experimental proof for Franklin's hypothesis that charges redistribute across neutral matter."
+        },
+        {
+            "source_experiment_id": "wilcke_dissectible_capacitor",
+            "target_experiment_id": "leyden_jar_storage",
+            "type": "builds_on",
+            "description": "Deconstructed the Leyden jar to isolate charge storage to the surface of the dielectric glass insulator."
+        },
+        {
+            "source_experiment_id": "aepinus_mathematical_theory",
+            "target_experiment_id": "canton_electrostatic_induction",
+            "type": "builds_on",
+            "description": "Transformed Canton's induction observations into a rigorous mathematical force balance framework."
+        },
+        {
+            "source_experiment_id": "cavendish_inverse_square",
+            "target_experiment_id": "franklin_kite_conservation",
+            "type": "confirms",
+            "description": "Quantitatively proved Franklin's conjecture that the interior of a hollow charged container has zero electrical force."
+        },
+        {
+            "source_experiment_id": "coulomb_torsion_law",
+            "target_experiment_id": "cavendish_inverse_square",
+            "type": "confirms",
+            "description": "Formally published and experimentally proved the inverse-square law that Cavendish had derived in private."
+        },
+        {
+            "source_experiment_id": "coulomb_torsion_law",
+            "target_experiment_id": "aepinus_mathematical_theory",
+            "type": "confirms",
+            "description": "Provided exact experimental constant measurements validating Aepinus's mathematical force laws."
+        },
+        {
+            "source_experiment_id": "galvani_bioelectricity",
+            "target_experiment_id": "pliny_torpedo_shock",
+            "type": "builds_on",
+            "description": "Connected ancient observations of shock-emitting electric torpedo fish to systematic laboratory neurophysiology."
+        },
+        {
+            "source_experiment_id": "volta_chemical_battery",
+            "target_experiment_id": "galvani_bioelectricity",
+            "type": "refutes",
+            "description": "Refuted Galvani's animal electricity, showing the frog muscle was merely a sensor reacting to bimetallic chemical current."
+        },
+        {
+            "source_experiment_id": "volta_chemical_battery",
+            "target_experiment_id": "leyden_jar_storage",
+            "type": "builds_on",
+            "description": "Replaced the violent, instantaneous discharge of the Leyden jar with a continuous, steady direct electric current."
+        },
+        {
+            "source_experiment_id": "romagnosi_deflection",
+            "target_experiment_id": "volta_chemical_battery",
+            "type": "builds_on",
+            "description": "Used Volta's new chemical battery to test if continuous current affects a nearby magnetic compass needle."
+        },
+        {
+            "source_experiment_id": "orsted_electromagnetism",
+            "target_experiment_id": "volta_chemical_battery",
+            "type": "builds_on",
+            "description": "Used Volta's steady current to produce reproducible perpendicular magnetic needle deflection."
+        },
+        {
+            "source_experiment_id": "orsted_electromagnetism",
+            "target_experiment_id": "coulomb_torsion_law",
+            "type": "refutes",
+            "description": "Shattered Coulomb's dogma that electricity and magnetism were completely distinct, unbridgeable natural fluids."
+        },
+        {
+            "source_experiment_id": "orsted_electromagnetism",
+            "target_experiment_id": "romagnosi_deflection",
+            "type": "confirms",
+            "description": "Definitively verified and popularized the magnetic deflection hint observed by Romagnosi 18 years earlier."
+        },
+        {
+            "source_experiment_id": "ampere_electrodynamics",
+            "target_experiment_id": "orsted_electromagnetism",
+            "type": "builds_on",
+            "description": "Mathematized Ørsted's needle deflection into exact mechanical laws governing forces between parallel currents."
+        },
+        {
+            "source_experiment_id": "faraday_electromagnetic_induction",
+            "target_experiment_id": "orsted_electromagnetism",
+            "type": "builds_on",
+            "description": "Discovered the reverse of Ørsted's breakthrough: while electricity produces magnetism, changing magnetism produces electricity."
+        },
+        {
+            "source_experiment_id": "faraday_electromagnetic_induction",
+            "target_experiment_id": "ampere_electrodynamics",
+            "type": "builds_on",
+            "description": "Replaced Ampère's action-at-a-distance concept with the physical reality of continuous fields and lines of force in space."
+        },
+        {
+            "source_experiment_id": "maxwell_electromagnetic_equations",
+            "target_experiment_id": "faraday_electromagnetic_induction",
+            "type": "confirms",
+            "description": "Translated Faraday's physical lines of force into rigorous partial differential calculus wave equations."
+        },
+        {
+            "source_experiment_id": "maxwell_electromagnetic_equations",
+            "target_experiment_id": "ampere_electrodynamics",
+            "type": "builds_on",
+            "description": "Added the crucial displacement current term to Ampère's law, enabling electromagnetic wave propagation."
+        },
+        {
+            "source_experiment_id": "maxwell_electromagnetic_equations",
+            "target_experiment_id": "cavendish_inverse_square",
+            "type": "confirms",
+            "description": "Maxwell personally edited Cavendish's unpublished papers, proving Cavendish's early priority."
+        },
+        {
+            "source_experiment_id": "hertz_radio_waves",
+            "target_experiment_id": "maxwell_electromagnetic_equations",
+            "type": "confirms",
+            "description": "Experimentally detected radio waves in the laboratory, proving Maxwell's electromagnetic wave theory was correct."
+        },
+        {
+            "source_experiment_id": "michelson_morley_null_ether",
+            "target_experiment_id": "maxwell_electromagnetic_equations",
+            "type": "refutes",
+            "description": "Disproved the Luminiferous Ether medium assumption that Maxwell and contemporaries assumed light waves needed to ripple through."
+        },
+        {
+            "source_experiment_id": "lorentz_transformations",
+            "target_experiment_id": "maxwell_electromagnetic_equations",
+            "type": "builds_on",
+            "description": "Formulated coordinate transformations that preserved the form of Maxwell's equations in moving reference frames."
+        },
+        {
+            "source_experiment_id": "lorentz_transformations",
+            "target_experiment_id": "michelson_morley_null_ether",
+            "type": "builds_on",
+            "description": "Introduced length contraction to mathematically account for the null result of the Michelson-Morley experiment."
+        },
+        {
+            "source_experiment_id": "thomson_electron_discovery",
+            "target_experiment_id": "franklin_kite_conservation",
+            "type": "refutes",
+            "description": "Replaced Franklin's continuous electrical fluid with discrete subatomic particles carrying fixed mass and charge."
+        },
+        {
+            "source_experiment_id": "marconi_transatlantic_radio",
+            "target_experiment_id": "hertz_radio_waves",
+            "type": "builds_on",
+            "description": "Scaled Hertz's laboratory spark oscillator into a commercial global communication network across the Atlantic."
+        },
+        {
+            "source_experiment_id": "einstein_photoelectric_quanta",
+            "target_experiment_id": "maxwell_electromagnetic_equations",
+            "type": "builds_on",
+            "description": "Proved Maxwell's continuous electromagnetic waves exhibit particle-like photon quanta at high frequencies."
+        },
+        {
+            "source_experiment_id": "einstein_photoelectric_quanta",
+            "target_experiment_id": "hertz_radio_waves",
+            "type": "builds_on",
+            "description": "Explained the photoelectric anomaly first noticed by Hertz during his spark-gap experiments."
+        },
+        {
+            "source_experiment_id": "einstein_special_relativity",
+            "target_experiment_id": "maxwell_electromagnetic_equations",
+            "type": "confirms",
+            "description": "Showed that Maxwell's equations were naturally relativistic all along, requiring Newtonian mechanics to yield."
+        },
+        {
+            "source_experiment_id": "einstein_special_relativity",
+            "target_experiment_id": "michelson_morley_null_ether",
+            "type": "confirms",
+            "description": "Explained why Michelson and Morley found no ether: the speed of light is invariant and requires no medium."
+        },
+        {
+            "source_experiment_id": "einstein_special_relativity",
+            "target_experiment_id": "lorentz_transformations",
+            "type": "builds_on",
+            "description": "Showed Lorentz's length contraction and time dilation were physical properties of 4D spacetime itself."
+        },
+        {
+            "source_experiment_id": "rutherford_atomic_nucleus",
+            "target_experiment_id": "thomson_electron_discovery",
+            "type": "refutes",
+            "description": "Overturned Thomson's plum pudding model, proving positive charge is concentrated in a tiny dense nucleus."
+        },
+        {
+            "source_experiment_id": "rutherford_atomic_nucleus",
+            "target_experiment_id": "coulomb_torsion_law",
+            "type": "confirms",
+            "description": "Proved Coulomb's inverse-square electrostatic law holds true all the way down to subatomic distances."
+        },
+        {
+            "source_experiment_id": "dirac_antimatter_equation",
+            "target_experiment_id": "einstein_special_relativity",
+            "type": "builds_on",
+            "description": "Combined Einstein's special relativity with quantum wave mechanics to describe relativistic electrons."
+        },
+        {
+            "source_experiment_id": "dirac_antimatter_equation",
+            "target_experiment_id": "thomson_electron_discovery",
+            "type": "builds_on",
+            "description": "Defined the fundamental relativistic and spin quantum behavior of Thomson's electron."
+        },
+        {
+            "source_experiment_id": "feynman_qed_diagrams",
+            "target_experiment_id": "dirac_antimatter_equation",
+            "type": "builds_on",
+            "description": "Completed Dirac's framework into a fully renormalized, perturbatively exact relativistic quantum field theory."
+        },
+        {
+            "source_experiment_id": "feynman_qed_diagrams",
+            "target_experiment_id": "einstein_photoelectric_quanta",
+            "type": "confirms",
+            "description": "Vindicated the photon concept by proving all electromagnetic force is mediated through virtual photon exchange."
+        },
+        {
+            "source_experiment_id": "electroweak_unification_theory",
+            "target_experiment_id": "feynman_qed_diagrams",
+            "type": "builds_on",
+            "description": "Enlarged the U(1) gauge group of QED into an SU(2) x U(1) unified symmetry encompassing weak radioactive decay."
+        },
+        {
+            "source_experiment_id": "electroweak_unification_theory",
+            "target_experiment_id": "maxwell_electromagnetic_equations",
+            "type": "builds_on",
+            "description": "Achieved the next great synthesis in physics since Maxwell, reducing nature's fundamental forces from 4 to 3."
+        },
+        {
+            "source_experiment_id": "cern_boson_discoveries",
+            "target_experiment_id": "electroweak_unification_theory",
+            "type": "confirms",
+            "description": "Physically produced and measured the W, Z, and Higgs bosons, decisively confirming Electroweak unification."
+        },
+        {
+            "source_experiment_id": "frontier_gut_toe",
+            "target_experiment_id": "electroweak_unification_theory",
+            "type": "builds_on",
+            "description": "Aims to extend the Electroweak unification step by incorporating the strong nuclear force and quantum gravity."
+        },
+        {
+            "source_experiment_id": "frontier_gut_toe",
+            "target_experiment_id": "thales_amber_lodestone",
+            "type": "builds_on",
+            "description": "The ultimate realization of Thales's 2,600-year-old wonder: discovering the single unified origin of all cosmic forces."
+        }
+    ],
+    "threads": [
+        {
+            "id": "thread_charge_flow",
+            "title": "⚡ The Flow of Charge: From Amber to the Electron",
+            "subtitle": "The quest to tame and measure the electrical fluid",
+            "color": "#f59e0b",
+            "experiment_ids": [
+                "thales_amber_lodestone",
+                "cabeo_electrical_repulsion",
+                "guericke_sulfur_generator",
+                "gray_conduction",
+                "du_fay_two_fluids",
+                "leyden_jar_storage",
+                "franklin_kite_conservation",
+                "coulomb_torsion_law",
+                "galvani_bioelectricity",
+                "volta_chemical_battery",
+                "thomson_electron_discovery",
+                "dirac_antimatter_equation",
+                "feynman_qed_diagrams"
+            ]
+        },
+        {
+            "id": "thread_mystery_lodestone",
+            "title": "🧲 The Mystery of Lodestone: From Compass to Electrodynamics",
+            "subtitle": "How a magical rock transformed planetary navigation and physical fields",
+            "color": "#38bdf8",
+            "experiment_ids": [
+                "thales_amber_lodestone",
+                "plato_magnetic_induction",
+                "han_spoon_compass",
+                "shen_kuo_silk_needle",
+                "petrus_magnetic_poles",
+                "robert_norman_dip",
+                "gilbert_de_magnete",
+                "romagnosi_deflection",
+                "orsted_electromagnetism",
+                "ampere_electrodynamics",
+                "faraday_electromagnetic_induction",
+                "einstein_special_relativity"
+            ]
+        },
+        {
+            "id": "thread_light_waves",
+            "title": "🌊 The Ripple of Light: Fields, Ether & Invariance",
+            "subtitle": "Unifying electricity, magnetism, and light into waves of spacetime",
+            "color": "#ec4899",
+            "experiment_ids": [
+                "faraday_electromagnetic_induction",
+                "maxwell_electromagnetic_equations",
+                "hertz_radio_waves",
+                "michelson_morley_null_ether",
+                "lorentz_transformations",
+                "marconi_transatlantic_radio",
+                "einstein_photoelectric_quanta",
+                "einstein_special_relativity"
+            ]
+        },
+        {
+            "id": "thread_quantum_unification",
+            "title": "⚛️ The Quantum Frontier: From Atoms to Electroweak & ToE",
+            "subtitle": "The subatomic journey that merged the cosmos's fundamental forces",
+            "color": "#a855f7",
+            "experiment_ids": [
+                "thomson_electron_discovery",
+                "einstein_photoelectric_quanta",
+                "rutherford_atomic_nucleus",
+                "dirac_antimatter_equation",
+                "feynman_qed_diagrams",
+                "electroweak_unification_theory",
+                "cern_boson_discoveries",
+                "frontier_gut_toe"
+            ]
+        }
+    ],
+    "quizzes": [
+        {
+            "id": "quiz_age_1",
+            "age_id": 1,
+            "title": "Age 1 Challenge: The Ancient Observers",
+            "question": "What happens when you cut a magnet in half, as experimentally proven by Petrus Peregrinus in 1269?",
+            "options": [
+                "You get two smaller complete magnets, each with its own North and South pole.",
+                "You successfully separate the North pole from the South pole (creating magnetic monopoles).",
+                "The lodestone completely loses its magnetic power permanently.",
+                "The cut surfaces become electrically charged like rubbed amber."
+            ],
+            "correct_index": 0,
+            "explanation": "Petrus Peregrinus proved dipole indivisibility: all magnets have two poles, and breaking one simply creates two smaller complete two-poled magnets."
+        },
+        {
+            "id": "quiz_age_2",
+            "age_id": 2,
+            "title": "Age 2 Challenge: Mechanical Separation",
+            "question": "Which scientist coined the English words \"electricity\" and \"electric\", drawing heavily from William Gilbert's Latin term?",
+            "options": [
+                "Sir Thomas Browne in Pseudodoxia Epidemica (1646)",
+                "Isaac Newton in Principia Mathematica",
+                "Otto von Guericke in Experimenta Nova",
+                "Francis Hauksbee at the Royal Society"
+            ],
+            "correct_index": 0,
+            "explanation": "Sir Thomas Browne formally coined the words electricity and electric in 1646, establishing it as an autonomous scientific domain."
+        },
+        {
+            "id": "quiz_age_3",
+            "age_id": 3,
+            "title": "Age 3 Challenge: Storing the Charge",
+            "question": "How did Benjamin Franklin's single-fluid model refute Charles Du Fay's earlier theory of electricity?",
+            "options": [
+                "Franklin proved positive and negative are surplus and deficit states of one fluid, rather than two separate fluids.",
+                "Franklin proved electricity is made of atoms while Du Fay thought it was a wave.",
+                "Franklin proved electricity cannot travel through metal wires.",
+                "Franklin proved lightning is completely unrelated to static electricity."
+            ],
+            "correct_index": 0,
+            "explanation": "Franklin rejected Du Fay's two fluids (vitreous and resinous), introducing single-fluid conservation of charge with (+) surplus and (-) deficit."
+        },
+        {
+            "id": "quiz_age_4",
+            "age_id": 4,
+            "title": "Age 4 Challenge: The Battery Debate",
+            "question": "How did Alessandro Volta refute Luigi Galvani's \"animal electricity\" theory in 1800?",
+            "options": [
+                "By building the Voltaic Pile using only alternating zinc/copper discs and saltwater to produce steady current without any biological tissue.",
+                "By proving that dead frogs generate lightning bolts.",
+                "By showing that compass needles ignore chemical batteries.",
+                "By measuring that frog nerves were made of iron."
+            ],
+            "correct_index": 0,
+            "explanation": "Volta proved electricity arose from contact between dissimilar metals and electrolyte, not living animal tissue, inventing the first battery."
+        },
+        {
+            "id": "quiz_age_5",
+            "age_id": 5,
+            "title": "Age 5 Challenge: The Great Unification",
+            "question": "What did James Clerk Maxwell discover when calculating the theoretical speed of electromagnetic waves in 1865?",
+            "options": [
+                "The wave speed matched the speed of light exactly, proving that light is an electromagnetic wave.",
+                "The wave speed was infinite, proving instantaneous action-at-a-distance.",
+                "Electromagnetic waves can only travel through solid steel.",
+                "Magnetic waves travel twice as fast as electric waves."
+            ],
+            "correct_index": 0,
+            "explanation": "Maxwell calculated c = 1/sqrt(mu0 * epsilon0) = 300,000 km/s, discovering that light itself is a self-propagating electromagnetic wave."
+        },
+        {
+            "id": "quiz_age_6",
+            "age_id": 6,
+            "title": "Age 6 Challenge: The Shattered Ether",
+            "question": "What was the shocking conclusion of the 1887 Michelson-Morley experiment?",
+            "options": [
+                "The speed of light was unaffected by Earth's orbital motion, proving the Luminiferous Ether does not exist.",
+                "Light travels twice as fast when moving towards the sun.",
+                "Radio waves cannot travel through a vacuum.",
+                "The Earth is stationary at the center of the universe."
+            ],
+            "correct_index": 0,
+            "explanation": "The famous null result showed light velocity is invariant, disproving the Luminiferous Ether and leading to Special Relativity."
+        }
+    ]
+}

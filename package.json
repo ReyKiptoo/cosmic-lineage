@@ -1,6 +1,6 @@
 {
     "$schema": "https://www.schemastore.org/package.json",
-    "name": "history-science",
+    "name": "cosmic-lineage",
     "private": true,
     "type": "module",
     "scripts": {
