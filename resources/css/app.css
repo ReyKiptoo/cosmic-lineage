@@ -1,3 +1,71 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-[#07090e] text-slate-100 antialiased selection:bg-cyan-500/30 selection:text-cyan-200;
+        font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    }
+}
+
+/* Custom glowing and ambient utilities */
+.glow-gold {
+    box-shadow: 0 0 25px -5px rgba(245, 158, 11, 0.35);
+}
+.glow-emerald {
+    box-shadow: 0 0 25px -5px rgba(16, 185, 129, 0.35);
+}
+.glow-purple {
+    box-shadow: 0 0 25px -5px rgba(168, 85, 247, 0.35);
+}
+.glow-cyan {
+    box-shadow: 0 0 25px -5px rgba(6, 182, 212, 0.35);
+}
+.glow-rose {
+    box-shadow: 0 0 25px -5px rgba(244, 63, 94, 0.35);
+}
+
+/* Glassmorphism surfaces */
+.glass-panel {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.04) 0%, rgba(255, 255, 255, 0.01) 100%);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-hover {
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.glass-panel-hover:hover {
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+/* Flowing connector animation */
+@keyframes dash-flow {
+    to {
+        stroke-dashoffset: -40;
+    }
+}
+
+.animate-dash-flow {
+    stroke-dasharray: 6 6;
+    animation: dash-flow 1.2s linear infinite;
+}
+
+/* Smooth custom scrollbars */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #07090e;
+}
+::-webkit-scrollbar-thumb {
+    background: #1e293b;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #334155;
+}

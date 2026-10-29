@@ -1,6 +1,6 @@
 {
     "$schema": "https://www.schemastore.org/package.json",
-    "name": "paprz-jkuat",
+    "name": "history-science",
     "private": true,
     "type": "module",
     "scripts": {
